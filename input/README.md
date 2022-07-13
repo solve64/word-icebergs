@@ -6,4 +6,4 @@ This directory should contain the following for desired languages:
   - json, of the format ["word1","word2",...]
   - xml, as per https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
 
-Dictionary sources are listed in the accompanying WordIcebergs.java file in this repository.
+Dictionary sources are listed in [WordIcebergs.java](/src/WordIcebergs.java).
