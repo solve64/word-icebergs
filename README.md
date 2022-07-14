@@ -58,3 +58,22 @@ Chinese		zh	6,216,195	67,520
 ```
 
 Feel free to message me if you see any discrepancies in an iceberg. Thanks!
+
+## Sources
+https://github.com/kkrypt0nn/Wordlists/tree/master/languages
+
+https://github.com/titoBouzout/Dictionaries/
+
+https://github.com/MinhasKamal/BengaliDictionary/blob/master/BengaliWordList_439.txt
+
+https://github.com/dwyl/english-words/
+
+https://github.com/JorgeDuenasLerin/diccionario-espanol-txt
+
+https://github.com/Shreeshrii/hindi-hunspell/blob/master/Hindi/hi_IN.dic
+
+https://github.com/acidsound/korean_wordlist/blob/master/wordslist.txt
+
+https://github.com/urduhack/urdu-words/blob/master/words.txt
+
+This package uses the [JMdict/EDICT](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) and [KANJIDIC](http://www.edrdg.org/wiki/index.php/KANJIDIC_Project) dictionary files. These files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's [licence](http://www.edrdg.org/edrdg/licence.html).
