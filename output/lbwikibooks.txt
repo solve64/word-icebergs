@@ -1,5 +1,0 @@
-Corpus total word count: 106
-Corpus unique word count: 41
-
-Top 10 words (able to read 64% of corpus)
-t z de of in et a am n well 
