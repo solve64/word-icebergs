@@ -24,6 +24,8 @@ import org.apache.commons.compress.compressors.CompressorStreamFactory;
 
 //https://dumps.wikimedia.org/backup-index.html
 
+//in build path: commons-compress-1.21.jar
+
 public class WordIcebergs
 {
 	private static final int[] categoryCounts={10,50,100,500,1000,5000,10000};
@@ -201,6 +203,11 @@ public class WordIcebergs
 					
 					while((line=br.readLine())!=null)
 					{
+						if(line.length()>9999)
+						{
+							continue;
+						}
+						
 						if(line.contains("<text"))
 						{
 							isInText=true;
@@ -224,10 +231,17 @@ public class WordIcebergs
 		writeResults(wordCounts,filename.substring(0,filename.indexOf('-'))+".txt");
 	}
 	
+	private Pattern ignoreLine=Pattern.compile("[_∈=≠≡→⇒∞^\\|\\+\\*#∡]|\\b(f|g|sqrt|frac|tfrac|sqrtfrac|omega|gamma|lim|log|ln|cos|sin|tan|arctan|mbox|min|max|if|else|for|while|begin|end|color|math\\w+)_?\\s*[\\{\\(]|^File:|x_|!!|.\\s+.\\s+.\\s+.");
+	
 	private void runString(String language, Set<String> dictionary, Map<String,Long> wordCounts, String line)
 	{
 		line=line.replaceAll("(&lt;.*?&gt;)|(<.*?>)|(\\{\\{.*\\}\\})|(\\[.*\\])"
-				+"|&quot;|&lt;|&gt;|&amp;|\\bii+\\b|\\w+=\\w+","");
+				+"|&quot;|&lt;|&gt;|&amp;|\\bii+\\b|\\w+=\\w+|\\\\.*?\\b","");
+		
+		if(ignoreLine.matcher(line).find())
+		{
+			return;
+		}
 		
 		List<String> words="ja".equals(language)?getWordsJaZh(dictionary,line,jaWordPatterns)
 				:"zh".equals(language)?getWordsJaZh(dictionary,line,zhWordPatterns)
