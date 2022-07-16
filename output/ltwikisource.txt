@@ -1,0 +1,691 @@
+Corpus total word count: 463664
+Corpus unique word count: 10657
+
+Top 10 words (able to read 22% of corpus)
+ir kad į kaip o iš tai su ant savo 
+
+Next 50 words (able to read 51% of corpus)
+bet aš taip ar buvo tik jau jis nuo ne kas kategorija jo yra tu per ką už dar 
+po prie man kur apie kai jų mano jos jį k čia autorius dabar jam tas ji 
+pavadinimas antraštė l be arba mūsų dėl jie sako jog m jei vėl nors 
+
+Next 100 words (able to read 69% of corpus)
+vis pas nes ko ten nieko tau ją mes nė mane sau turi labai vienas daug tarė pat 
+nei tavo būti gal kada paskui pats gali tuo lyg kurie žmogus prieš apylinkės 
+žmonės jeigu tada page tiek tiktai nėra gi jūs tarp juos reikia juk ta net d 
+jai mums kiek a t daugiau visa turėjo tave štai šiandien mus kuris jiems 
+apylinkė iki pagal toks ėmė na sakmė pro dievas jūsų tenai manęs tam visai namo 
+todėl vien visas niekas kam kurios akis kuri viską eina tačiau eilėraštis bei 
+koks du ponas nr ėjo rodos kurių kuo pati toliau 
+
+Next 500 words (able to read 85% of corpus)
+laiko jums nori tuojau kartais straipsnis kol kodėl jisai kalba eiti tavęs p 
+lig visados tėvas vos tokia norėjo save e širdis gana kurį motina viskas juo 
+idant kartu kurią kitas patys saulė tuoj žiūri seniai visur vienok velnias davė 
+dalis pirma taigi it ak toli savęs jonas žemė kuriuos kalbėjo b kurio tad šios 
+stovėjo gyveno tegul kažin jas paties kiekvienas jus mat niekados kelias 
+klausia vėjas laikas sakė žiūrėjo bent link naktis aplinkui s kokia tris kita 
+kitaip galėjo sūnus dvi kaipo važiuoti karalius vyras reikėjo senis ranka 
+tartum šią kito šį šis padavimas data gyventi oi viens rado viso metus liepė 
+tiesa stovi reiškia žino matyti vietoje namie vairuotojas didelis y patį norint 
+ja brolis duoti šventas ypač irgi sėdėjo daryti diena dėdė liko greit klausė 
+staiga drauge mato trys turbūt vadino argi ima matyt galva panelė rajonas index 
+girdi senelis aplink šio ponia vaikas baisiai netoli gyvenimas laiku ligi 
+niekur gyvena tamsta kalbėti gyvas tarsi vakar kame darbas atgal jaunas beje 
+gaila visada kunigas sušuko senas bėga prezidentas matė tėvelis geras šiaip 
+ties sėdi karo tolo mergaitė šių šalia dalinai dėlto ši mintis darbus seimas h 
+kurias gražus iso aukštyn dvasia balsas naujas jais vietoj kurioje šaukia 
+vilkas niekad arti tuomet niekam veltui valstybė šalis gavo guli juodu pagaliau 
+teisybė rodo dangus vanduo pasakojo šoko daro abudu tvarka tegu negu myli vargo 
+laukia abu veidas laukė žinojo mama kuriam gauti kuriame laimė moteriškė čionai 
+mažas žmona kelis spaustuvė boba sveikas daina dirbti pačių kasdien suvis 
+ežeras beveik akmuo ugnis vertė bernas vakaras žodis duoda arčiau siela 
+aukščiau moteris tasai anksti mirė te karto tiesiog tikras viršininkas amžius 
+vėliau įstatymas gulėjo svietas laukan pasaka bėgo vadina šiol valdžia lauke 
+dviejų čion varpo prašė klebonas šuo grįžo šitai šalin gėlė http kažkas mudu 
+priešais savim licencija kuriuo nebe visko konstitucija lietuvis rytoj baltas 
+vaikinas publikacija jame darė meilė vainikas rašyti skaityti scena tyčia 
+taryba tarnas giesmė rasi jinai juosta antras žemyn ieškoti moka tauta tarytum 
+ūkininkas laikė tapo el dalykas vardas keletą perkūnas kraujas tylėjo pamažu 
+tyli mylėjo šaukė vieta baisus daugel valgyti žinoti puolė mokyti vaiko 
+linksmas ei šiuo rašo manim durys verkia nuolat viešpats trijų joms žiūrėti 
+neša šviesa arklys kartus duktė val mirtis dirbo šitas leidžia pirmininkas 
+turėti biblioteka niekada tolyn et vyriausybė mirti kunigaikštis laimingas 
+puslapis pasakoja ragana šeimyna pačiam bėgti pirmas sakyti pilnas www šiai 
+gyvatė bažnyčia dėkui prašo niekaip teka kadangi leido verkė laukti ilgainiui 
+galas galbūt garbė netrukus kuriais jojo namon tavim augo verkti toji mergina 
+kuriems antra valia ik pavasaris jauna vedė keli teisė traukė gieda gėda 
+stačiai šiame mumis bene pasaulis šitaip važiavo grįžta nebėra kalnas šneka 
+girdėjo kitur taipogi juodas daiktas dauguma skiria org mokėjo kuria miega 
+skamba metė auga plaukia ponaitis nelaimė tėvynė jųjų vairuoti kurmis noras 
+likimas versija kieno gaidys veda vadas rasti greta lazda lai pilis nešė 
+mokslas paukštis šeimininkė nekaip šablonas vasara lapė mylėti kelia užtat 
+užvis kyla virš bijojo asmuo joje kaipgi pana dirba ogi gėrė šie g girdėti 
+laumė klausyti mėnuo pačiu 
+
+Next 1000 words (able to read 93% of corpus)
+viltis vargas grįžti ė traukia pažino gaspadorius teko km dingo lieka vilko 
+dainuoja liepia miestas bijo oras moters anksčiau pelėda kažkur daugybė dainavo 
+gulti abiem paskiau dvaras programa pagalba keleivis nedaug seno jautė vežti 
+dviem skambėjo pirm būdas ilgas ausis klausimas liūdnas klauso vokietis ieško 
+naudoti džiaugsmas žiedas uodega draugas rytas žydi laisvė prašyti r manė ačiū 
+ūžia miškas medžiaga mergelė sapnas pirmiau vaikščiojo vai nusigando šiolei 
+žinomas važiuoja istorija abiejų kūnas vidury šit reikalingas pilietis duona 
+kuriose krinta leisti nuolatos imti laužo pusė vesti visuomet balti teismas 
+vaizdas valgė giedoti reikalauja maž šaltas dvylika dega malda paskum dainuoti 
+tebėra šviečia meška priemonė katinas kuriuose stojo eismas putinas daugelis 
+senelė kuomet mėgsta raudonas šokti kitąsyk jautis protas krito tol piršlys 
+lietus daugiausia žemaitis ginti merga signalas šoka giria kaltas cha ai 
+galingas tinka mielas pora skaitė gerti ketino pusiau būna himnas nelabai 
+siunčia respublika vėlei rėkia maršalka veikti žvaigždė tenka būtent žalias 
+nežinia valanda aukštas paskutinis kiškis naudotojas skelbia piemuo ieškojo 
+pastaba skausmas skyrius pučia lekia abi milžinas dešimt žiema bado upė laikyti 
+baimė nusijuokė sesuo rinkti paveikslas kūdikis pirmąkart degė tekstas šaltinis 
+renka žvėris viršaus va berniukas meta senutė katras dvidešimt sėdo miršta 
+žadėjo amen kūrinys viršum lietuviškas slenka svečias rasit pačius kuriai vėlai 
+https stovėti jūra krūtinė koja vyrus poetas jpg užtai trečias spaudžia turtas 
+kentėti vietovė šeimininkas sudiev raštininkas turto aušra šunys jėgos debesis 
+tėra drebėjo sunkus pažinti platinti laiškas demokratija rodė vaikščioja 
+verčiau popiežius kaskart dreba gan puikus bučiuoja rašė ruduo eikš forma 
+piktas kodas sp jaunikaitis paslaptis pareiga dalia ramus dantis artyn šia 
+bučiavo sava kėlė pradžia ministras šias tyla aktas kone gauna vienintelis 
+valsčius vargus žemiau regėti kraštas šventė mokytojas ilgus kalnus neva teikia 
+marti galvojo pasakoti bobutė žuvis pranešimas deputatas miegojo žaltys mišios 
+visaip šiuos šešėlis kurgi žydas mažne valdo visgi šiek turtingas mėnulis jėga 
+skaito ženklas sykiu žuvo tuokart bėda skauda vaitas būrys šunį žiba tekėjo 
+retkarčiais trūksta seka priežastis saugoti menkas kelti savyje kažkoks muša 
+dirstelėjo regis veikia šuva sprendžia keletas kirsti svarstyti manyje 
+medžiotojas žada pirmyn aidas baisi garsas saugo šen kilo sutartis panašus 
+kareivis kvailas keliauti kariauti rauda jumis žvirblis spėjo joks varo tikėti 
+karvė sąlyga šnekėjo gimė tvirtas vykdo viduje savimi niekus lokys centras 
+sniegas slapčia jausmas rašytojas valdyti karūna vežimas katė minia betgi 
+tuščias rūpi šaukti tapti jiedu laisvas randa tavimi žibėjo html visad rainys 
+prašom audra reikalauti daugsyk saulutė vargšas medis švietė metas nebent 
+vilnis siekia rūko jaučia kryžius krikščionis pakol tupi stiprus pernai 
+svetimas vadovauja šita tarnauti jomis siena kaimynas žąsis tvirtina girtas še 
+spindi ana jaunystė doc mana etc ganė pl garsus žmogelis dėjo vyskupas varė 
+pirkti anksto sulig nejaugi apskritai kariuomenė antai kaimas noro gamta 
+skrenda modifikuoti šioje manyti vaikščioti valgo mstl ramino galybė vytis 
+kažkaip tiki galiausiai robotas brangus kūrėjas pabaiga licenciaras mąstė mini 
+keturi liga kitados imtis mokėti rėkė krivė gintis patiems mėn vagis šunų 
+ragino siuntė melas ateitis šiam tyko slapta namas dovana juodo gyvi baigė 
+artojas keisti šeima liežuvis kaži niekuo ūžė statė našlaitė blizga suka al 
+kančia pusėn sargas rimas viesulas vestuvės saugojo beregint vilioja lydi 
+skirsnis kalvis gaudžia taria prekyba statyti laiškus karalaitė tekėti vertas 
+tuodu darbininkas tomas silpnas varpas virto šiltas senė geria asilas savaime 
+spręsti diktatūra avis ženklus juokais puola gudrus gynė mažo šnekėti galia 
+kuriomis software mušė kadaise niekuomet šnibždėjo mokė šuns deda vaikelis 
+pačiame dvigubas muzika sa nyksta atstovas galvoja krivaitis giedojo vartai 
+kasa išsigando dalyvauti kardo jaunikis mėgo png vykdyti josios ilgesys 
+muzikantas išvydo ikšiol palei tarnavo plaukė meldė angelas poezija baigti 
+rūpėjo elgeta liepsna augino žirgas pasiuntinys sukti vardan kregždė trokšta 
+renkamas ligonis tijūnas glosto verda baigia pagailo blogas nešti pagrindinis 
+lėkė gyvulys goštautas žvejas logo žaliuoja lova negi nesu pūtė šiais platus 
+sveikata viduj šiandie gaudė numirėlis reikalas vyriausias vargu žinia šlovė 
+rymo mušti sėja būva giltinė persigando danga kiaurai deja aitvaras blogo cit 
+skersai bematant žiburys močiutė dviese rasa senukas vežė vargšė žaisti tamsus 
+anapus griaustinis dalyvauja rūkas mąsto troba žaidžia karas narys našta kolei 
+grafas prezidiumas draugus žyma juokas kurti trukdyti bajoras anas bijoti 
+nudžiugo dengia paprastas gandras erelis gerbti mėlynas aria šunis keliavo 
+banguoja dailidė pilkas takas išnaša neina joja nakčia plaka knyga tampa 
+raudoti klausti varyti išmintingas pėsčias vaikšto malonus svajonė pdf 
+klausinėjo dainelė ąžuolas pulkas tarpo sodžius karalienė nešiojo dovanas 
+karalystė ilgis kirto kavalierius medžioti laksto religija sėdėti skirti auksas 
+jaunimas tikėjo juose žydėjo ūkis linija bučiuoti spindulys raudojo miegoti 
+paliovos gyrė neg kenčia apskritis užuot kerta prievarta gegutė tiesiogiai 
+pakolei reiškė piliakalnis rieda netyčia tvirtinti pina eilė garbinti troško 
+likti manimi nešioja vyksta žūva tvarkyti drąsus mėgino supa tavyje ha višta 
+keliauja šiąnakt pamaži kova gulėti kvapas draudžia peties dėti pjauti 
+pasauliui ilgo jose greitis tikėjimas buržuazija širdelė aklas pečius vargti 
+lakštingala juosius ošia sveikina administratorius mėsa nauda glostė kardas 
+pavojus kiaulė mudviem ryt lemia karšta pylė pačiais bendraautorius geltonas 
+amžinas audžia vakarop reikalavo šmėkla ypačiai kalti jokia trumpas galioti 
+tylus sekė ganyti mažens taika griebė romas valdė evangelija penki upelis 
+tikslas ašara kapas sekti rožė kasmet dejuoja makalas veja šaltis pan teisingas 
+kuone serga kartas vynas produktas verčia tinkamas bernelis kviečia 
+keturiasdešimt sąrašas vienąkart masė balsus stop generolas maišo skrynia 
+pavyzdys tąsyk šokinėjo genys lakstė vertėjas kažkokia strakalas ėsti barzda 
+revoliucija lauk žolė kliūtis išties skubėjo aušta advokatas nesant trūko gaida 
+trejus gina tolimas mokslus anuomet laivas prašneko groja garantija judu 
+garbino jųdviejų smarkus atlaidus pavardė lygus arė kentėjo turinys kabinetas 
+skurdo remia tikriausiai anot kreiptis bėgiojo prabilo žaliavo beržas apsukui 
+kvepia traukti liūdesys šokinėja vaikino informacija daugiausiai raitas menas 
+dėka valdovas galvoti plakė snaudžia joti sapnuoja kontrolierius nėjo vėjelis 
+tęsė andai storas vaisius sėjo lyja veik sauja svajoti girti mesti klausinėti 
+šičia geidžia skaičius šnabždėjo išvien skelbti lenda angis dėvėjo mudviejų 
+blizgėjo drama pirmutinis stato ugi žengti šiemet vyriškis prakaitas gyvybė 
+trimis žaibas kurioms ežys pelno savųjų keltis vaišino linksta lankyti regi 
+rūpestis reikšti audė laužas raštas kasė jauti išsyk byla tolydžio įžanga 
+užvakar kankino stalas spindėjo literatūra šypsena lanko skaudėjo lengvas 
+palengva šuniui žinynas žr skyrium pajėgos mylimas indėlis marios varnas griežė 
+pvz mirga triukšmas apsauga lapas praeitis lenkia nagi vaitoja 
+
+Next 5000 words (able to read 99% of corpus)
+svarsto degino spaudė š ū žengia rengia vienakis žūti stiprinti gaudyti sritis 
+nesi sujudo virti proza nosis vergas maždaug griežti slaptas slinko pagarba 
+tyčiomis tebūnie takus semia kopijuoti vaidila geruoju gentis gavėjas drasko 
+priešingai biudžetas alkanas juška ėda skelbė laukas dėlei min šilima įrašas 
+težino lydėjo miegas gęsta daugumas būrelis lietuvė žudė randas atsitikimas 
+skundas kietas pamotė plakti dūšia siūti oje istorikas skuba druska ramybė 
+tvėrė žydo red minėti pirko margas lėmė pynė stoti bežiūrint bėgioti kelionė 
+dunda virsta bjaurus gerbia plauko sąjunga mašina veža sr pūsti šnabžda griežia 
+žaidė nuotaka malonė gaudo griuvo partija pirklys nejau leidimas kalė atlieka 
+meilus susirinkimas versti kibirkštis gražina dėdienė drūtas drąsa mokino 
+tiltas tinklapis kailius kitoks pakeliui vėtra siūlo rėkti kasti dešiniojo 
+išmintis garbina organizacija pušis pinigas burtininkas rodyti capt vijo 
+riksmas lašas lėto prieinamas dejavo iškyla krūva skyrė valstybinė kitokia 
+liūdi mada giminė rūstus dvejus grupė galioja sermėga gano plikas duobė taisyti 
+giedra austi policija nevalia gilyn pažįsta gerbė tiko tarnauja skęsta vandenis 
+šįmet pėdas rinko konstitucinis šėrė lipti ginkluoti kultūra tėviškė teisėjas 
+stebuklingas pažįstamas dainius grįžt vežėjas karta trukus staugia linguoja 
+iškart būklė valgis mokinys mergytė sausas keistas verpia lašinius burna jįjį 
+trisdešimt šįryt gyventojas vadinti ypatingas sistema sergi kiauras dalyvis 
+žilas vilkti trumpa regėjo skurdas virė jausti liaudis dera karsto verta 
+viršuje skrido pila galimas snausti banga priešas ieva draugystė bala ratas 
+kalnelis kūryba vargina virpa sveria grožis griūva kariavo liūliuoja šilo 
+kvailys atgalios paeiliui mažutis projektas burmistras vaikis gauja vandalizmas 
+skambina gilus gailis kiša šviesus sapnavo gena palaimintas vogti ilgi greitas 
+bendras saugoja skirtis kulti kva puota gaili globoja krauti lįsti tamsa aiškus 
+turėtojas pildyti žaizda maišas šlama našlė komisija ubagas tarnaitė vokalinis 
+degti keliolika rimtas lipo dabojo temti mokytas žengė gubernatorius mokytoja 
+groti strazdas proletariatas girtuoklis žemaitė atgimimas vyresnis puošia 
+liūtas aha spauda mostelėjo traktatas pernelyg dargi moko mamytė organizuoja 
+žiaurus saulelė poryt atsakymas norėti ežiukas kopija meluoja rausta pyksta 
+krikštyti audėja kovas pamatas žingsnis pareigūnas egzistuoja pieva suko 
+naudoja politika kakta slėgė dunkso plunksna keleto up snaudė rojus norus 
+kažkada svočia keikė vėžys mena trims keikia nakvoti veislė švelnus sūnelis 
+išilgai veidelis kukuoja pulti slepia badas sarmata bepigu pakyla varlė pjovė 
+prof nemokamai veršis žvakė bitė malkas velka daktaras drugys šovė vanagas 
+žynys oda grąžinti pranašas lijo kartoja atskiras kovojo kovoti galimybė put 
+privalomas planas lingavo veikla naudingas pietūs pirmenybė tupėjo dauginti 
+stebuklas altorius alga mąstyti minėjo nuosavybė alus pyko uždavinys komitetas 
+laibas verti ciklas ragina root draudė naujiena šiose stumia ž kiemas draugė 
+pakarčiui bandė mužikas pagonis įrankis veronika rengti žvanga loti dešiniajame 
+gėris motinėlė šiaurys baras raktas skubina leidžiamas dingsta viešnia tylėti 
+ištisas kg kt švinta skraidė klysta šunimis lauras kabojo vergauti darbininkė 
+margo maloningas nėmaž pusantro savuosius politinis kabo karieta auka ožka 
+graužia vaga nedelsiant siųsti šeši doras kart albanas kvailutė specialus 
+kalbino varto trokšti trukdo varna tekina svarbus išimtis gimsta info rusas 
+gydo kankina šiurpas organas pavydi kerštas šūvis apdaras dovanomis žudo rupūžė 
+skara sėda devyni valstybinis ruošti tobulas manoji perkūnija trobesys lipa 
+grojo sveikino mudvi didinti temsta rūta kontrolė geležis atviras ištikimas 
+trim savąją sopa kaukė šaknis kilti vyti labas kitąkart tiesia prigimtis obelis 
+dabartės abejoti prastas raitelis ketvirtas stoka užimtas grynas goda traukinys 
+prakeiktas sala pasakėčia sodas skylė tvarko prasijuokė meluoti šimtas jautrus 
+protingas drausti armija treti gluosnis status nešioti dalijo kvatoja 
+kontroliuoja loja vilkėti pamažėl barė baugina buržua tikyba linksmybė mėgina 
+šikšnosparnis pėda kn pr pikčiurna dūmas taiso veikė kruvina visagalis siuvėjas 
+gegužė pripažino krovė skaisčiai tinginys asla valio vienybė kvietė pačio 
+draskė priešingas skaistus kloja begalinis klasė kokis byra sargyba niekina 
+grūdo atmena ėgi mina artimas sūdo tėtušis plėšė lelija teritorija sesutė 
+plaustininkas glūdi varvėjo lankė liejo viešpatavo dievobaimingas kepė krizas 
+minti bausmė svajojo išlaidas krūptelėjo gražumu tūkstantis stoja vienaip 
+mamaitė perdėm smuikas plėšia administracinis lenkas dovanojo džiūsta dovanoti 
+prieštarauja rytys vaitojo mirgėjo matomas popierius neliečiamas studijuoti 
+verpė jiedvi abidvi sušunka skradžiai vėliava smaugia paguoda vaistas sirgo 
+sudie laivelis dėtis gelia banda vienišas riša lindo žadinti kaltė darbymetis 
+baltuoja bėris nuodėmė kęsti vyriškas klysti naikina būtinas kieksyk ledas 
+gelbėti prokuroras juoba dūmoja šiomis sargus liepsnoja pavaduotojas menko 
+laimėjo nyko kyšo šuniukas šildo propaganda kerdžius pjauna vargonai gyvenvietė 
+steigia viešpatauja raganius santvarka lupa kybojo kana nuostata ketina šerti 
+žavi pilti aiškina aiškino dora triskart mito įdomus tvirtino lenkimas tęsti 
+durnas esmė viliojo teisinis savas nagrinėti liudija taikyti šmakšt sostinė 
+nuomonė sėti šnibžda tveria kruta augti viskam pav kovoja vietomis mėto 
+jaunuomenė mėtė plūsta bendruomenė vadovybė puikybė galvelė siekti vienąsyk 
+šalti lenkti vaišinti maldauti šluostė plūdo netiesa eglė atbulas paveikslėlis 
+kaukia balas krutėjo vergė priverstinai senatvė tvora trenkė augintinis meldžia 
+urėdas eksploatuoti santykis informuoti teikti kūma pradžiugo dorybė teta 
+šauksmas netgi laikotarpis vizija artėja visuma sutvėrimas įstabus skubino 
+ramina želia šokinėti nuotaika galė manasis dūsavo riktelėjo bandyti kirst 
+karštas marškiniai skraido šypso kraipė pravirko ardo maišelis viešėti taiko 
+taisė jaugi bedievis pusbalsiu dievaitis vysta kaitra grūdas braukia gailestis 
+dailus raudo laimėti siekė gula malūnas keikti gulė plyšo skubėti šąla rūmas 
+vaikštinėjo tarpas skardas tyras svetys kaimynė styga tarnyba nelyginant uola 
+tirpo kalėjimas varsto bankas šyptelėjo gandas galiūnas lesa skrieja kupriukas 
+žvengia viršūnė parūpo dirva vystyti laimino nuolatinis rūstybė skaitytojas 
+pavydėjo viskuo raginti teisus perka kuriuodu tekinas prancūzas atmintis 
+aušrinė neteisybė komuna gerumu kartojo pasakojimas pragaras sūkurys siūlyti 
+stogas kailis išbėga trenkia slankiojo aukuras siūbuoja uosis skursta niūrus 
+tiesus idėja degtinė pienas abejo slegia graudis atitinkamas kankinti švilpia 
+malti geležinis lempa tarti svaras žeidžia paša niekis lenkiškas neapykanta 
+suprantamas vieversys taurė daržininkas šiapus rovė tuštybė aštuonetas vienodas 
+voras sąvoka zuikis gatavas dalina piktumu audeklas grėbti sodina baltavo 
+penktas pavojingas pūga griebia trinti medžioklė vasaris vartojo skraistė 
+paprotys slėpti migla aštrus vartoti vėlus sidabras šaudyti apsiaustas smakas 
+tučtuojau proga purvinas senolė kraipo naikino reikalavimas jąja šlapias 
+šniokščia liečia vadovauti urvas cholera musė mokykla katilas barti šiluma 
+auksinis lapelis pamilo šildė žvejoti paskos sąžinė atgaila vikaras bičiulis 
+srovė važinėjo lyrika trobelė eisena taksi šįvakar kišo pastangos grėbia krimto 
+vaikštinėja šviesti drabužis mumyse budina visiškas netikėtas nugara saldus 
+šluota sirgti sprendimas žolelė riboti linktelėjo seniokas bailus karalaitis 
+juodavo mozūras griauna instruktorius iškilus tirpsta versmė niūniuoja 
+susijuokė valkata giedras kulka kumelė spruko ėdė vainikėlis žarsto tetulė 
+grindis vežimėlis drebėti laimina teoretikas riogso daužė rijo skalbėja rimo 
+klounas katra verpti miestelis marksistas graužė aistra tyluma karšinčius 
+elementas iliuzija kepa gavėjo oho šluočius kandidatas mūza aidi svajoja sveiko 
+pykti našlaitis dėkingas šalna rūbas šaka judėti jaunutė kortas žibintas 
+ateivis karvelis vyturys klėtis renegatas virpėjo sergėjo savąjį kapojo kybo 
+rezultatas mechanizmas vieškelis klasta murmėjo lenkė sesija rūksta bjaurybė 
+dieveris žymė speigas atida skraidyti šeštadienis uždanga parama poška namelis 
+poema žiburėlis vyrukas judviejų garas baidyklė skliautas lizdas savosios puošė 
+dvelkia šioks nabagė informuoja koordinuoja viršus siunta totorius viršuj bando 
+kūrė drįso žemaitiškas diržo sėkla lopšys kontroliuoti atsitiktinai importuoti 
+ploti skleisti paskirtis tekšt iniciatyva tuščiomis noromis dukart slėpė 
+vadelioti bu pagrindas verksmas žvelgia gyvastis diduomenė riteris sodyba 
+smėlis tūlas mažuma daržas skerdžius tylomis rodyklė remti sparnas reguliuoja 
+lapatai augina jąją svyruoja lakstyti vežikas choras kariauna kapinės rudeniop 
+veikėjas velėna kenkia nuogas spūdis lankas drožė trina važinėja vakarinė dūrė 
+savaitė žaislus šaudė steigti auginti siūbavo iro apačia rėžė vargdienis lūžo 
+kruvinas dabina atmaina septyni svetur komedija glamonėja dėvi žmogysta lygybė 
+nesame kaba laimi riedėjo aukavo kibirkštėlė skleidžia rytojus kar auklėti 
+liūdėjo įvadas berods penkiasdešimt filosofas dveji šlamėjo nendrė stirna 
+rėkavo bokštas chamas plotas skranda mažytis priekin buria girgžda ketvirtainis 
+niekino kvėpuoja sapnuoti krauna beria džiovinti pasoga statutas bedugnė 
+harmonija sėsti kambarinė batuotas melsti klykia kadai vidutinis griaudžia 
+mokinti gryčia procesas sauso žioplys lanka naikinti princas patyliais lieja 
+tiekė stūmė atstovauja kantrybė katalikas kentė šilelis varva krėsti bliovė 
+žingine užtatai šiaurinis paisyti vieši geidė kurčias perdien siekis ryšys 
+kartoti baudžiava skruzdėlė juda gyvuoti triūsas lakioja ūpas kirvis staigus 
+juto galop ligonė tikrovė keičia netoliese kambarys vyko tilvikas laikraštis 
+pašaukimas dukra redaguoti chemija vaistininkas signalizacija gesinti liokajus 
+menininkas arbata krosnis pavartė klinika gaisras kibo lavonas švarus dygsta 
+elgesys žavėjo sankryža jiemdviem mandagus laižo nesąmonė nebylys driežas 
+redaktorius pamažėle gaivina kaltininkas šiems dėvėti balsuoti pervirš apygarda 
+sotus savojo vargonininkas kūliais kūrino paikas vakarienė dešinė armonika 
+artistas santuoka primygtinai sekmadienis blaško juodvarnis transportas 
+savąsias kristi traukis dalyvavo bara perėja sodino gimtinė kuždėjo plauti 
+siuvo šitiek duokš žemelė kliuvo idealas šienas erzina magistras personalas 
+pavydas palaima žėrėjo vartoja trykšta riebus pūva draskyti trypė vargino žėri 
+kitoniškas tylom peikė susipažino veikalas teška pilvas kirminas godojo sk st 
+karvedys ui mū gabus vaizdus linksmina karštis stinga reguliuotojas ežia strykt 
+samdyti žybtelėjo melsvas liesas gelbėjo padėtis numeris stūkso gimdė atmenamai 
+šilti vikrus nuožiūra gruodas cypė našlys nabagas pažįstama išpažino šilas 
+pakeleivingas stagaras valtis epušė trise guodė palaukė grąžina šeria varguolė 
+spalva saulėtas saikas dvejetas samanas dailininkas mėčiojo trylika lobis 
+kvepėjo požiūris glamonėjo devynetas tvenkinys riedėti spėja tąja režimas 
+siūlas gardus velniop vienur užpernai bunda didžiulis karstas tikrina baudė 
+skepeta ožys svėrė griauti kompetencija bobelė tamsuma dusia žala griovys pilko 
+širdingas ūkė profesorius inžinierius rinkinys autobusas kribždėti savivaldybė 
+dūsauja prisipažino išdidus kunigaikštienė kulia pakilus sviedė šelpia karti 
+žadino vaiduoklis žadina galanda sidabrinė plienas ryja šunelis maišus bujoja 
+kratė žydėti socialistas laidoti kurtas indeksas grindys sykis energija paroda 
+liepa beprotis mokina dargana leidėjas faktas smūgis maksimalus statusas rusėjo 
+mėšlavežis kepti balius pasaulinis priežiūra dramaturgas baisybė melavo deginti 
+draugija butas siūlė juokavo instinktas antis sliekas juokingas pirštas kliūva 
+skriaudė peilis smuklininkas lašiniai dundėjo gėrimas teritorinis nuoroda 
+rizika uodas viršyti universitetas linkėjo baudžia širdgėla puošti pusnis 
+kelmas siaučia plg guodžia bėrė liaudininkas svyravo glaudžia savininkas latvis 
+maitino juokuoti stvėrė kiaušinis žandaras krikštas kapoja konstrukcinis 
+šešiasdešimt kuopa bėdinas dėkojo atsiskyrėlis uosto žvilgsnis truktelėjo 
+griausmas paminklas margis vairas ratifikuoja vagia branduolys skriaudžia truko 
+griovė slopinti važiuotas prūsas bot vengti str pliko aštuoniasdešimt degina 
+kamuolys skatinti skendo gaivino milžiniškas beširdis žmonija pykšt technika 
+šventino niūksojo drožia šiuokart com gąsdina anei gąsdino niekšas aviža 
+koplyčia kviesti pagrindus atbalsis skinti patriotas lydeka blaivus kaukas 
+skubinas temo sopėjo sumišai apysaka amžinybė kaina jungas čiulba bolševizmas 
+marmėjo meistras skusti vasarojus genijus mala netyčiomis laikrodis malė 
+saujelė vau blokas perėti priešpriešiais staklės valdininkas dengė egi gundo 
+pelnas nakvojo kaitina pataitė kalva barstė siuva erzino anglis rašytoja barsto 
+šviesoforas kelkraštis sonetas spyna arkivyskupas spyrė eilutė supo cm ošė 
+mėginti pakeleivis kambarėlis rengė rėksnys broliukas krimsti op panieka 
+ikšiolei džiugina ženklina laižyti kliudo kišti gražiuoju atsakomybė balselis 
+viešėjo tuštuma kaltinti sužiuro dabartinis komercinis romus vysti šypsojo 
+įvykis ratelis liovė šiuodu tabakinė šunadvokatis pusantros lesti patylomis 
+brakšt šernas važinėti skambino šauti žiedelis smiltis kriokė tryško pakiemiais 
+prievaizdas sąsaja daktarė tarška skardus aušti gilia šakelė stebi grąžino 
+pirmeivis glamonėti varpelis matomumas staugė objektinis vaikiškas kitąmet 
+įsčios procesija paslapčia bildu krato šukuoti kuprotas švytuoklė sienojas 
+apeigos brenda prabilti sekretorius nuostatas kalnėnas baidyti grobstė braška 
+geso anaiptol deklaracija spiečius garantuoti graužti vaje plasnoja kali kala 
+savaip dalgis prašymas licencijuoti fariziejus tiekti garantuoja kava 
+atmintinai liūdėti klaida skirtumas kabėjo pirkia truputis žilabarzdis matas 
+laidė tiekia marmuras šitoks katekizmas stiklas taikus pildė ežeriukas frantas 
+kalbina alėja intensyvus drįsti stotis studentas peikia lūšis herojus vargsta 
+peikti kaštavo išvadas pildo skambinti dešiniuoju dukrelė principas brinkt bile 
+visuotinis smaugė dažnas dvejiems situacija nusikaltimas katedra ašaroja 
+šautuvas skrajoja skola retas kukis originalus risčia šildyti platina klykti 
+gadina liudijo daužo patarlė trenksmas lizdelis dievaitė ryšium pajamos baido 
+mergikė drobė rudas piešė mėnesiena tuosius krust girdė lyti išdavikas svaigina 
+vokiškas tverti pažinimas lytis išlaidos bliauti baubia minta žymus vyresnybė 
+frazė šukavo dama taškas takelis šokis seselė viešas kantrus vengė ragauti 
+kamuoja bedarbis daboja klaikus vykti mazgojo realus klausinėja blogis spausti 
+visata veria vaidas šliaužia judėjo galinčius klyksmas spengia viršija peri 
+ugdyti neregys kupra niūri rūkė kūreno laidotuvės popiet davinėjo pelnyti 
+dėkoti sūdyti modifikuoja slankioja juokauja šnekus medus budrus purpt čiulbėjo 
+mūšis rausvas vyto pačiuose anyta tviska šluosto kartis pirtis pavakarė čirškia 
+sandoris brolienė suolelis girininkas automagistralė mono plevėsuoja tolei 
+gydyti virėja šnypščia rykštė susyk ešerys oficialus lėtas balandis aukauti 
+piemenė globa medinis čiauškėjo paklusnus žvilga patirtis čiupt kaukti laižė 
+tautosaka saugus gudrybė liemenė tvojo trejiems šventadienis bruzdėjo pyktis 
+teorija nerimavo šiukštu kažkieno įkandin laimikis dvarininkas stumdė trejetas 
+svyra penketas skynė tikslus buržuazinis žibėti striukas sužibo kadencija 
+dievaž stabas antrapus palaikai viršun streikuoja grasina dalija nejučiom 
+vakaris jaunuolis pūras darna tabalai dalino kairė dėsto konkretus priekaba 
+žirgelis elgetauti aštuoni krantas tikti tinginė negirdėtas direktyva 
+vaivorykštė ved treji sninga priežodis kliudė prislėgtas bravo siuto vertėjo 
+humoras vėlė dvejos linki dūzgia plauna vyr migdo apsuk garlaivis klestėjo 
+bemaž džiovino šiokia žėlė paklydėlis trynė skina naudojo šisai grąžo kraiko 
+akordas cypia ginklas bū barška kl veidrodis narsus ml žvelgė lieptas vergti 
+vadovavo viskame savaisiais varžo melsvuma pūkšt gen šmurkšt keturiolika 
+administracija platyn miežis priedainis sodietis sriuba brūzdė sodininkas lipdė 
+kielė stengti vargingas nusikalto laiduoja girgždėjo mokyt adata tvinsta 
+trijose bėginėjo kopa šiepia praktika bėginėja garbingas vaizdelis švenčia 
+kirmėlė liepsnojo rauti apsukrus pelnė keitė keliasdešimt skleidė vėlyvas 
+blokuoti perpus salonas piestu dvejais vilkino šypsnys cypt skandina kyšt 
+gerklė keturiese šliaužė šiuose lygina kriokia prasti plovė įtaka įranga 
+nuobodus skalbė vadžiojo paviršius papunktis krečia kompanija kvapus derva 
+papartis blondinė ragas vienuolika stypt verpėja spėti maldavo styri vaišina 
+žiopso dusyk penkiolika vaškas tęsia skalbti raudas geba telegrama bilda 
+biografija dėmė kumetis auklėjo destis apgaulė plazda kažkodėl tūpt audimas 
+kloti šiurpulys skatina pavakarys tąjį skatino skirsto sprogo trypia 
+paslaptingas kapt varu valė žagaras juoju svaidė klojo karžygys dūdavo griaudė 
+teesie imperializmas lošia arklininkas kun mykė tampė čiuk padėjimas varsa 
+gailestingas mynė atėjūnas lieknas kenkė anuodu įstaiga varpa avinas gabalėlis 
+švęsti kvėpuoti spardo svarstė gydytojas debesėlis įgaliotinis įtakoti mylia 
+moteriška ilgaausis žindo skolinti herbas vakarinis batsiuvys šelpti momentas 
+uogauti plaukti pašnibždomis kryptis ūžesys žegnojo biro avilys įsakymas 
+aičiojo raminti tūris gandina prekė perniek gandino jiedviem balandėlis plaukas 
+geltonplaukis įspūdis lydėti ministerija mok protavo uolektis aukštis 
+dokumentas pilietybė kraustyti skaudžia tarpsta pinti pavydėti nagrinėja 
+dėmesys kadgi langelis plyšta talentas budėjo kukū šlubas putoja šarka spraga 
+nerimas cituoja ūmus bailė sausis sriūbt apžvalga abipus atsargus galgi 
+mažiukas jumyse rišti alsavo krenta reglamentuoja šarvuoti vilktis krembliauti 
+ruošia socialinis veto kvailė vartotojas bąla charakteris mažėja lando brido 
+mirksi grėbė kalnėnė bausti justi puta girto nota senatas eržilas žingsniuoja 
+krovinys nerimastis rankioja triūsė teršti apvaizda užklotas bręsta dažyti 
+padaras bristi fondas smagus šaulys šast pfu laukinis petys klaidžiojo tvanas 
+patyrus peni švyst baravykas teigia spjaudė podraug lakiojo vienetas kąsti 
+sargybinis tėškė gadinti penėjo kitkart maitina žvengė variantas žemas spinta 
+lietuvaitė deivė reginys posėdžiauti juokauti moteriškas vikst skundžia siaubas 
+pamažėliais individas skursti kilus slaptomis ypatybė dokumentacija šventovė 
+prieštarauti tviskėjo pažodžiui brūkštelėjo laistė trissyk puodas išminčius 
+verkšlena šulinys naga kraitis skaudus moja dovanoja plėšti kinkyti pirmtakas 
+samprotauti kąsnelis aukauja čirpinti darda garnys abejojo graudus karšti pokšt 
+vinis kepurė kaštuoja karinis saulėtekis kilimas čiupo spjovė prasidžiugo 
+padangė legenda šnypštė putra kinta juokdarys ginčas kaulas prakaituoja 
+seminarija mintijo drąsuolis meškena jungtis stiebas spiria gamina rašinėti 
+dūduoja tabakas donžuanas palydovas kirpo kotas anga šioji novijo vaikė sodelis 
+teiginys bereikalingas ištikimybė juokina grūmoja ūkininkauti stačias atilsis 
+stuktelėjo sparnuotas skydo okupantas tema bėgioja šnibždėti plėsti melodija 
+pluša trejų balsavo tausoti dešiniau rubuilis prūdas grabas kvatojo sidabrinis 
+gelda vaišės badė pyška gerovė makt plepėti judviem stumti tezė lojo majoras 
+žeidė grėsmė pilkuma skaldyti jungtuvės vienoks žūsta mažinti globėjas blaškė 
+taisyklė gaišo rankelė ploja ligotas statistika išjuokė trukino gausus drėgnas 
+ilgauodegė bukas ilsėti graudino maišė prakalba samdo sekcija kreipti nebėjo 
+negandas gatvė nesa išgąstis džiovina plonas priesaika skaudulys žąsinas gundė 
+gaja buitis samdė kalendorius sostas dauba medžiojo atdaras žvaigždelė 
+tendencija generalinis skatikas taikinti pavydus egzistavo alsuoti raižo 
+šniokštė čirena įtaisas statinė maišyti idealus prievolė kampininkas bernauti 
+budo šlamščia budi slibinas lentelė gabena žaislas talpus svyruoti dažė 
+redakcija vidur spiegė knygelė skilvys žadėti lubos jauja sakalas žentas 
+kaltino juoduoja rauna kanda troškulys dūmojo lūžta apsakymas anoji kampas 
+jungė duria skvernas megzti yla knygutė sodnas maras trimitas stilius stena 
+klajūnas lepina atšvaitas tipas švedas kariauja delnas problema rūkyti kritika 
+grieti gailavo rudo nejučiomis skęsti mojavo kratyti grakštus basas vietininkas 
+pavėjui rėkauja žudyti olia šelmis visokia dailina nuostabus fontanas 
+iškilmingas lėkti varžyti maištas departamentas kluonas skudutis niūkso lašėjo 
+spalis erzinti bevaikis oželis žalas išvestis transliteracija linksi barškina 
+barškino žvejojo griaudina skalbia viešpatauti topolis gaidelis padrykt 
+sprogsta žvėrelis apuokas žiurkė raistas sklido gailus apvalus spėka kelnės 
+kukavo sutema aplikacija valstietis vienija brėško reikšmė rimti riboja tąją 
+laužia tiria neturtėlis stulpas sumišimas jodė mokyklinis liepti kvieslys vapa 
+kapa pakuždomis ožiukas dvejų pagunda tarpti inkščia brukti motinystė prausė 
+grybauti vargdienė anądien pakalnė buklus aprašymas kumelaitė stingsta diedas 
+komponentas raibsta viela milžti institucija greituoju vakarieniauti ūkas 
+nesitvėrė staugti vėsavo rašyba pagrįstas liudijimas sutartinė automobilis 
+niūniuoti argumentas gražuolė barbutė aukštielninkas drįsta čerška kelintas 
+tvaiko globoti matuoti bėgte aitra lesė rusiškas klajoklis priekis apynys 
+žvilgt caras rąstas gobia pakaitomis varinė rabinas triumfuoja zona ragavo para 
+pusbrolis volungė daužyti atstu kapitalizmas smilga kapstyti kūdikėlis džiova 
+išvis direktorius opera šykštus narsavo med kursto skelti akimirka skaidrus 
+antrąkart akinti grožybė skrajojo tikrenybė skruzdė laidojo pirmąsyk liemuo 
+kapelionas devyniasdešimt berti darželis matavo tempti pasiekiamas žygiuoja 
+berankis vasarėlė pokylis stigo talka duobkasys garavo lygtinai riba posėdis 
+vaidmuo karčema skrybėliuotas žagrė kalbininkas kapitalistinis sakalėlis tartis 
+gija kregždutė kasnakt tavoji stropus mylavo pantis dejuoti kvėpavo originalas 
+pilietinis pusgyvis gaišina kainuoja krustelėjo baidė didėja pjaustė murkso 
+gebėjo makštis būda aštuoniolika neapsakomas asmenybė bejausmis žiemoja butelis 
+tarpais krapšto vienkart braidyti nėščia realybė pašauktas rudis tamsybė 
+svetimtautis sijonas girdo pradininkas būrė teisia vartė kalinys plaštaka laužė 
+raižyti rimtis vienuma davinėti košė rudikis fakultetas mulkis sukliko slidus 
+sentimentalus šliaužti gyvuoja mokslininkas kutena keršyti rėplinėja skundė 
+mazgoti dvelkė slėpinys dundulis smulkutis saulytė demokratas komunikacijos 
+keras apgaudinėjo apgaudinėja pelė skaitymas triūsia striuka švyti vintas 
+socialdemokratija tingėjo litanija atšoka varguolis liūliavo savivalė kampelis 
+girdyti visuomenė purto iria šeimininkauti būtybė akėti sumanus išorinis trunka 
+šaukte vilkė nenaudėlis plūsti irti vaidinti vadus kūjis jotas kalavijas dydis 
+kyšojo atžala tekti bejėgis švito sklinda kiaunė tapsi supti apžiūra mėšlas 
+rinktinis štiš pažintis maldauja šienauti tvirtėja civilizacija šnekino 
+kapitalas ramdyti rangus nedorėlis krizė žymi klykė netvarka samprotauja 
+tironas siurbia abiejose valdytojas gelbsti ankstybas poilsis tųjų aušo malšino 
+tankus aut žynė didybė paskalos palankus alko tįso snapas vija melagis 
+nerimauti fantazija apaštalas perlas pašalys klydo skyrimas kugžda nykti 
+organizuoti vaduoti prakaituoti kopti suskambo anąsyk skriausti dvasinis masina 
+lėlė šutinti paršas protokolas žilo pietauti kirtis melžti gimdyti streikas 
+kraugerys kanauninkas lakštutė žirklės vaizduotė taško ardyti braido skuta 
+srovena skuto kramtė godi atašė praktikuoti vadavo gailėjo blyško vaitoti 
+darganas pušynas tel sidabravo duoklė beprasmis viršukalnė pradinis fizinis 
+stabdo pavėžėti riešutauti lepus avinėlis skubinti tųdviejų pastovus gamino 
+skausta dumia šioms grindinys gestas driūkt stumdo šmukšt krepšys kaitė bangavo 
+tonas stalelis publikuoti paveldimas ubagė tildė pienburnis čežena kursyvas 
+orkestras taupė virsti nesantaika sukčius stengė girnius čirkšt manta pernakt 
+tyrinėti dilgėlė vadovas guldo vynioja tvarkė kritus pragaištis rymojo košia 
+rausti dundesys ujo kūlė būtis grasino mezgė priedanga tepė dulkė tariamas 
+susitikimas luomas namolio begėdė traktorius kūtė stiklinė vertina balo amatas 
+apibrėžimas žaliuoti skrynelė trupinys zvimbia graudena vidudienis atpildas 
+švilpė skambėti meilužis dėstė gaivinti lopo nesti artėjo klibo kairėn baugino 
+šalmas palaidūnas moterėlė rišo aimanuoja ryškėja tragedija susigėdo augalotas 
+slogutis plūst marš lemtis kėdė įstatai apraiška šįkart plepys spiegia 
+gelbėtojas griebti sąlygoja maistas ropoti audėjas vienuolis vėlybas karosas 
+gaubti išgama bereikal trinka alsuoja būstinė lindi revoliucinis hidra aukoti 
+knarkė budinti seiki linko linkt kalvė skenduolis pakloja paklodė eglynas 
+pasekmė žmogutis kurstyti žvaigždutė kiekis vėtė migdė kilstelėjo limpa pūst 
+apeliacija diegas patentas vilnonis gaga lemtas iždas suma maitinti gavėnia 
+velionis diduma kartkartėmis nedraugas riečia niežti kaklas rako tešla kalėti 
+gabenti staliukas senovė būvis siuntinėjo amatininkas pūslėtas užtvaras 
+prekiauja malonėjo čirškinti skilo šokėja skųsti griūna plušėjo revizorius 
+geografija skersomis rėtis kilnus spindulėlis rūgsta aiman burtininkė žydra 
+brūkšt žmogžudys svaidyti alpsta reguliuoti biblija falsifikuoti džiugino 
+darbštus peržiūra nekaltybė norma paukštė raižė trūkti raudonavo perša tyka 
+keliauninkas pažastis karojo nū sėlino rankioti ponybė šniokšti sankirta 
+popietė mėlynė keršijo kritikas dvariškis aukojo pėrė aras žvirblelis 
+zakristijonas priešaušris gimdo gabeno šypsoti unija kriokti avangardas 
+tarškino pažodinis pešė vidus sesė prokuratūra ardė burtas storžievis muko 
+publicistas buvoja šmėkštelėjo senukė eilinis stiprina avelė šaukimas stiprino 
+saviškė kuinas tramdė šuniu švilpauja kubilius vabzdys ūgis miršo angliškas 
+vogė virėjas vyskupystė tašo gauruotas ašis smala stabdyti lankstyti letena 
+adresas tina pavargėlis stebulė jaukus svirplys dykuma lengvėja pamažėliu 
+geisti begalė engia alksnis varpinė prakaitavo kairys pulkininkas krūmas lepino 
+šonas baisingas bitininkas žibina niekingas stiprybė žydras bajoraitė pusrytis 
+abuojas pakenčiamas tvinksta skūra braukti šoninis žalmargė beždžionė šlaitas 
+skolingas aiškinti žydris dėstyti gudo šikšna skaldo vakarykščiai nuopelnas 
+dėsnis plaustas šauna brangino mastas prietaisas ignoruoja duonelė kamgi 
+pasijuokė vadžioja inteligentas atkarpa šaudo dalelė prozininkas kaisti 
+trupinėlis galavo naminis išjuokia slėgia pusbernis slėpiningas šaligatvis 
+gumbas ketvertas mazgas žalis tvyro dviejuose smuikavo brazdinti žaibuoja 
+išvada graikiškas miklus iškaba gigantas išauga ruožas svaigo nervingas 
+piešėjas skristi išsigimėlis tykojo kapitalistas sodinti bandūra žiovauja 
+parašas nesate vytenis brazdino okupacija juosia kosėjo rekomenduoti pusnuogis 
+antrąsyk griaužia rūpina šukuoja aistringas mėgėjas anieji anosios prisijuokė 
+globėja glaudė kosėti erdvė tūno gardino dainė plūstis siautė pailgas teisėtas 
+gimtinis filosofija rytmetys gervė storlūpis javas slaugė gynėjas marguliuoja 
+tūpsi vagi patikimas lošti glūduma biznis liuoba juostelė stimpa aure rūstauja 
+tavosios valo gracija joji lupo mainais neiti dualizmas bambėjo tąsė birželis 
+braškėjo masto tarpus sija sensta slogina veiksmas šūkis prielaidus skyrybos 
+vaikėzas kalinė nykštukas bernužis zirzia plynas gąsdinti zovada piktuoju 
+kukuoti pustrečio vergavo apgavikas bepig kakalys bauginti ūžavo gairė žeria 
+žemgalis vemti varis tempia snigo skelbimas plotis mėtyti puldinėjo tinklas 
+žara jaunatvė žavinti kopinėjo šventenybė sukrus džiovininkė urzgė skruzdynas 
+gynyba trukdė vežiojo vienatvė tėtė dievaži pagalys daigus kankynė paveldėtojas 
+polius subruzdo dumblas žvilgėjo laivynas klaidina ištvirkėlis žvengti 
+bendradarbiauti šlėktos nelabasis merkė stypso dingti viščiukas migt gegužis 
+vienturtis byzgia atlošas nenuorama ryškus karys raudonuoja istorinis 
+pasišokėjo portretistas ištvermė ratifikuoti malūnininkas lemputė meškininkas 
+užduotis linguoti karštinė gaisrus tvino keturiom traškėjo sėdynė marguliavo 
+šutina palaidas katastrofa derinti minė vartyti senti plėšo dvasiškas sekioja 
+kapitula reforma gydė neigia švarkas egoistas komunizmas porina gintaras sunkia 
+krankia prisiskaitėlis vienokia žingeidus funkcija gūžta dvylis kutino šilkinis 
+semti badauja veikėja sūdė mitologija briedena pažinus inventorius šlamesys 
+šikšninis tyška vietom lašina mykia smirdėti žvalgyba skiauterė guvus žeminti 
+vaikystė popas pastogė budėti vietelė bjauri riogsojo vedžioja rida piemenaitis 
+lieti parduotuvė atvaizdas interpeliacija autoritetas plyšti tojo lempelė 
+žvaigždynas stipti moterystė dabartis baudžiauninkas protestavo opozicija 
+pramoga grandinė priepuolis šarma puolinėjo knisa grybas tavojo apdarus 
+valkiojo kalakutas anasai ąžuolynas derėjo nuoširdus gira skala mitrus rito 
+ištarmė pinas žvaigždėti didus judinti pirmininkauti medininkas metro karyba 
+ganytojas pamaldos būbt šermenys šarvas grandis šaltkalvis kontora baltina 
+atostogos piligrimas pirkinėti suokia skaudėti užpakalis palengvėle 
+nacionalinis skriauda kritikuoti blaškyti derėti sėmė reglamentuoti teisti 
+bliauna brika kekė iškalbingas murma kuklus motulė barškėjo gundyti tranko 
+svaigino indas bekraštis žvainas žurnalistika baubti regimas tvinkt krutino 
+kaliausė plykstelėjo garbanoti neviltis krutina amnestija smarvė kužda 
+pareiškimas suolas tango byrėti vargšelis puvo rankraštis telkia naras 
+nusigąsta tiedu plepa nardo finansai vientisas novelė bėgi dirvonas podukra 
+stoviniuoti masinis tauškė žinovas stebėti daboti žaibavo pažiūra glemžė 
+monarchija peteliškė bėra laužyti židinys vyrauja pliaukšti klaidžioja marina 
+prunkščia distribucija vištaitė lekioja šalutinis sietynas maldyti taurus 
+ketvirtadalis klausytojas dingtelėjo pozicija pub gaišti temdo kairysis džiūti 
+vergija skaičiuoti žėravo kiauliškas būdingas puodžius plyta skaitmeninis 
+tavasai vykdė tyvuliuoja atsakingas įvairus virpėti šlovina antraip noktiurnas 
+purtė kąsnis putpelė kamža just žiogas liūtis kupina šaudyklė kanceliarija 
+blykstelėjo skalauja šiaurus piktino demaskuoja denonsuoja trata biurokratija 
+savąja tingėti akad bosas vylius balnoti užmirštis klajojo bulius grūstis 
+policininkas čiupinėjo šnekta penėti slunkius dergti račius pavidalas kapoti 
+kilpa gėla klajonė kilmė kilst materija maino kubas seklyčia prerogatyva 
+beprotystė piktybė pervasar troškino troškina nuodingas trukdys padarinys 
+pravardžiavo liūsta lesino vienatinis kaminas baugus verkšleno plaukučiai 
+tupėti laisto svaigus stovis kaimietis varganas suktas mūras beigi kaimietė 
+aidėjo laipioti svetainė ritinėjo buožė kunkuliuoja audringas rūpinti nerti 
+įmanomas abejoja poniškas itin dulkina labanakt jungia atstumas nūdien dėžė 
+didgalvis vaizduoja būras posūnis pratarmė valiza tėtis kramto svirtis krutėti 
+nykus paleistuvė korespondentas bis švystelėjo misti kolona aparatas patogus 
+vaizduoti pliaukšėjo snukis masino lemti slypi laidyti maldo neria dvarponis 
+braidė valdovė rūsys kirilica skurdus didina krytis satyras vidurinis lėšos 
+snigti reklama vištelė mėlynuoja ugdo penkiese uošvis rugys gulinti arklidė 
+vakaroti nematytas myluoja globė pabaiso negalais pūdymas saga gražybė lipinėja 
+garvežys pūstelėjo uodžia kažkuriam išnaudotojas nedaugelis priemenė užsienis 
+žiburiavo kadugys skirstyti tešmuo spragilas tir plėtė kumšt ritinti žiebė 
+šventina abipusiai ramunėlė salė menkniekis būtinybė skečia luoba koplytėlė 
+formuluotė šliaužioti rolė taboka rudenėlis dūzgeno rytmetinis netikėlis tykus 
+talpinti ūžt pašmakšt čirškė spendžia striukis aviena poetė poetinis sakus 
+žibinti saulėti informatika mišo kontrrevoliucinis blondinas alternatyvus 
+iešmas pundas sverti savajame prisijuokti valandėlė centrinis vingis išteklius 
+apklausa dalyti kuopelė povas atsišaukimas garus forumas registracija žievė 
+grumdo mieguistas myriop asesorius dešiniąja žodynas prieblanda benamė srėbė 
+lėbauti pragaištingas manevras technologija omega nusijuokti gulbė sakinys 
+ciepsėjo dilgtelėjo gojus kiemelis grasus tryliktas diemedis domino domina 
+pajacas dvilinkas krikštijo cirpia vienturtė klykauja nelygu šaukoti kvaitulys 
+teutonas šešėliuotas pokalbis salsta sirena manija išeiga klika purvynas din 
+paklotas planuoja sklypas pjovėjas mokestis atkaklus stakt dulkt manas įžymus 
+silpninti dešiniąją kūrinti įrodymas sirpo kuršininkas vilnonas manga relikvija 
+puotauja skersuotas organizmas priešakinis sumirgo tildo blaivas dislokuoti 
+karpyti bedantis epocha segioti komediantas peizažas dvejas zaunijo kemša 
+graudeno nusikalsta novelistė grėblys aimanuoti tobulinti gniaužo puoselėti 
+kolonija milžo dešiniosios pamatinis sielvartauti judina būgnas lopė stokoja 
+pagrožo sąskaita šimtąkart kliba čiulpė treja bruzda rėksmas instaliuoti 
+duonkepis gniaužė elgetauja permatomas godulystė gelmė žybčiojo grimzti 
+didpilvis draugavo progresas dygo stula plojo rezignacija nakvoja drėgnumas 
+vainikuotas klampoti strapt lipšnus dykas pusamžis miltai pakaušis dyla 
+krikščioniškas kojelė ūdra ceremonialas niūniavo kaitino krūvelė anąkart 
+styrėjo mojuoja miniatiūra vertėja era jaunis svilti esa ainis utėlius graudina 
+kalbinti liberalas vėto lingė skolino tampyti kairįjį instrumentinis kreipia 
+sušukti mūša diržas elnias čiūčiuoja anglas pagieža delsti tėvukas pūti rentė 
+spurga šmotas lupti atžagariom skilandis stuobrys tyvuliavo krūpsi baladė 
+kimšti bakstelėjo įpėdinis institutas pirkėjas kitądien šiurkštus žuvavo kaušo 
+sula skilti tratino pažanga piktadarys piešti kostiumas šypt inteligencija 
+burbtelėjo šaukštas gaivintoja eiliuoti spingsojo dusina kassyk kandidatūra 
+skonis diegti praviras spėliojo prieangis suodžius sūris graibyti velniškas 
+intelektas birbti taukius sužvigo tąnakt ct dr vakarėlis medžioja šerkšnas 
+baltaplaukis rūpėti puokštė manuosius pjautuvas akredituoja mindžioti barzdyla 
+kniumba kaipmat mindžioja priekinis kenkti drūtgalys maudyklė mindžiojo vaikyti 
+štabas rizikuoti neužmirštuolė nuolankus kr rusena merkia šlakstė ruseno dryžas 
+aušino tyrinėjo griausti keleri krūpčiojo jodinėti aguona stačiomis branginti 
+krėtė krūpčioja tingi švinas pusdienis kniūpsčia godoja praeivis gnyba pragumas 
+timpt disciplina stabdys inteligentija tūkst krykštavo keletu liūliuoti 
+skalbiniai sagsto jaunutis surdutas įžeidinėti vampso šičionai žmogiškas smirdi 
+operuoja smirda naršo pervaža tvirkti priegloba šėlsta vienkiemis kirpti cypti 
+durnius kvarta sėlina vantas bulvienė jodinėjo krapštinėjo šeštas spėlioti 
+švilpavo klumpius tyso išvestinis žindyti skersuoja maištininkas vagojo 
+poetizuoti šykšti viešpatija širdo linksmino pešt vaidilutė aukoja meilauti 
+sriubt cerkvė filologija plonutis niurnėjo gėdingas nuobodis tašyti nevidonas 
+stingo profesinis kaustyti nusikaltėlis pusvelčiui kvaišė pakriautė buko liesti 
+prašapo tauzyti padorus suktybė jaudulys skuduras audinys spūdi kasdienis 
+monopolis brūzti kamienas kogi salelė birža gesintuvas uostyti beviltis šatras 
+rūstavo šarmotas akmeninis byrėjo rauginti prakaituotas tragikas vampt juodis 
+nelaisvė krautuvė keturiomis velėti baigtis raugė lėtinti marus lynas gimti 
+figūra dubliuoja automatas tesėjo miegūstas papliauška kepurėlė dribo purvino 
+ūkanotas pražūtis vokė yda tino pėdsakas lava šarvuotas kūtvėla likviduoti 
+graudingas pasižįsta bačka burkuoja pašnabždom plekšt magiškas atsitiktinumas 
+tašė rūstinti dūmoti varduoti pagoniškas rauso korė vitalizmas burgėjo 
+šalininkas rugsėjis bruka skarelė meniu sąmonė medelis aliai bruko šiepti 
+kišenė smerkia patėvis gardis piesta kasoti mojis atbulomis vartininkas trinksi 
+saviesiems gyvavo sausuma pyragas laisvūnas žiopsojo prausti gruodis seniūnija 
+dūda trūktelėjo iškilmės spirgėjo čigonė kurpius gaubė dergė kumštis betėvis 
+savininkė klasikas antrino dūko kyši skandino vagystė eigulys skaistykla marma 
+tuosyk menk drapana psalmė šukuotis apkalba numeracija siera suvažiavimas 
+trinkti kvailystė tingus pavasariop žemdirbys čiūčia išdavystė tarptautinis 
+meilingas lopas savajam plekšnė virvelė geiša naktibalda rodiklis šlakstyti 
+dingt stypsojo tribunolas tavuosius troškis klišis dienoti galutinis 
+kompensuoti bakūžė kampininkė lukštas mirksnis signalizuoti dešinėn varinėja 
+raugti žvairuoja paviršium nektaras painus runka kaista perinti dindi bendrystė 
+kliudyti signalizuoja ilsėjo brasta tyruma gabalas bevardis kreivomis dešimtas 
+ilgesingas trumpinti saidokas sūpuoja apgula palikimas žygiuoti braižė braižo 
+pusantrų sviestas derlius rusė vaidino testamentas standartas vaikutis pykina 
+gūžia patalynė pirmapradis žymėjo raliuoja mauna jomdviem baritonas priedas 
+puolus bandymas kudakuoja ritmuša ženklinti purvas pumpuruotas žvyras gesti 
+prakilnus krimst skalsus gurbo dievažin mergužė varvino religinis svaido trėsė 
+žaibuoti vingiuotas svilina dievybė šiandieninis linkti rūtelė žvejoja ringuoja 
+pedagogas griaudino budino esybė tykoti pasak trikampis fabrikantas smaigyti 
+guldyti manieji šluoja šėtonas formalus tarybinis sravi deimantas kvėpė vėsuma 
+ausytas minkyti pusryčiauti dabita žingsniavo durklas raišas stiklelis žiovauti 
+partinė pulsuoja kibiras dulkėtas maudžia auklėja galvijas trūkumas bėdojo 
+alkis rasoja kupinas balkšvas pureno gamyba valgomasis kaišia melancholija 
+skausmingas katrul valdyba įnamė bičiuliauti jaunuolė elegantė nuotykis 
+demokratinis dalinis varstė auna piršo skandalas leidykla manųjų ankštas 
+pėsčiomis diplomatas ūkininkė įmotė substancija aikštelė lentyna čiauškia 
+tautybė skarmalas šlamokšt mėčioti silpnėjo rūgštelė prierašas kunigaikštytė 
+apkrova tigras visagalė klabinti kac kerčia daigius kanopa silpnėja akstinas 
+plūduriuoja tavąjį žaizdoti votumas slampinėja bendrija baubė trūkt gimnazija 
+spurstelėjo kūkčioti vata beldžia kitada prietema skėlė veisė mažytė krykščia 
+mūsiškė krikštynos kūnelis marksizmas metėja kloji siuntinys laido laužti 
+trypti bajorė pinigėlis žvalgo kunigaikštija gagena iškalba prapuldė bučinys 
+pempė dalinti pasalomis minimumas maršrutinis mėgti šiušena kalnietis lakštas 
+boluoja tyrinėtojas spinduliuotas klesti jaugti buklybė regentystė mindo 
+drebulys lipdyti pluta anglija leitmotyvas šnera pirminis šiupinys keršis 
+sopulys plevena byloja pleveno palikuonis švisti vengia dešiniųjų įsakus paštas 
+kraupus sfinksas skanduoti lept silpnino smilksta mindė liuoksi niekšybė 
+puotavo žydinti griaužė smunka kompiliatorius vėsus valerijonas rambus 
+pasijuokti kritikavo kurtus kuolas anūkas chemikas akylas tekinom šapas patrako 
+tekino bajorystė brinkti brošiūra valiūkas skustuvas smailus gimtas akompanuoti 
+padas pirmininkė atvejis pagalvė sklaidyti sunkina įsakas terorizuoja žabalas 
+egzempliorius trukmė vaiskus sunkino karpo seneliukas leidyba virkdo kilnoja 
+pajuokti pylimas riešutas aimanavo grybavo žuvauti litas viršininkė mirkčioja 
+teisminis statula vedina pamoka murino stabtelėjo prancūziškas tremia laureatas 
+burba trukti giminaitis karpė spardė vemia plotmė pavaduotoja grotos kausto 
+laipsnis belsti braukyti pirmai skelia nutartis briedkriaunis senka rūpestingas 
+elementorius tarpininkas balnelis požymis viešbutis ėja katorga lošė kurstė 
+aičioti laukis judrus aušinti žaizdras šienavo noksta čiurlena šokuoja žilis 
+smilko vagilė veidmainystė drybso serveris atseit bujojo geidžiamas rikiuoja 
+vienužis pilnatvė vyturo kasdieninis grobstyti guodžioti manąsias dirst 
+kuodelis kapsto žvilgtelėti mirktelėjo plaukioti pulkelis rožinis vidinis 
+draugiškas kelissyk kreivas cituoti bėgom rėčius griežtas kumeliukas ryti 
+paskutinai trapus nekas akina priešininkas blankus mot pilnatis ekskursija 
+kaušas sėlinėjo nėrė neigti penktadienis devintas plaukiojo palšo šakės aktyvus 
+langas lėkštė veršiukas grobia galvosena srebia skrajoti kulšis gaminti posmas 
+vapsva obuolys opus griekas usnis tąkart trijulė eksperimentuoti pirmininkauja 
+informacinis senutis grėsė badavo verginti sprogti vedžiojo dvesia klonis 
+žemiškas mokinė ūmas tvaksėjo raištis šunimi brinksta susitarimas tipiškas 
+vieningas teisena putojo ūkauja beturtis limonadas mostaguoja išjuokti kerplėša 
+šermenis lietė gadino pasaga paklausais minkštas šaunus skulptorius klaupia 
+perti murkia smilktelėjo režisierius imperatorius kniso vedžioti apeliacinis 
+pramonė spindėti žnairas liudyti panėšėti nematom landė prieiga šlubis laukelis 
+vikingas trypčiojo viršaitis bloškė lietingas smuklė autorystė volas ginė 
+juokdarė lygo keberiokšt didėjo būsena nuliekamas mirksėti junginys bitinas 
+ginčijo kisielius muziejus siaubūnas apklotas ūžti mėsinėjo suokė įpratimas 
+luktelėjo praviro kursas nuoseklus klimpo panėšėjo sveikinti priešpiet išlyga 
+kiksi sankcija rakandas riekti vienuolė kliūti daužia jaisiais lyra 
+enciklopedija šūkauti peras rizė dekanas vokti murkt kliūna skydas pašnekesys 
+ėdinėja tolygiai atsarga dilgynė valgytoja analogiškas krapštė botagas tiesė 
+dūksta pypkius kelmuoti savitas aidus pilkalnis bėgčia ąžuolinis miršti kepino 
+pusėtinas antstolis ponpalaikis narus statinys žiemoti inicijuoti kipšas 
+smurtas šėtra varys vokas 

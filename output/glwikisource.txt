@@ -1,0 +1,753 @@
+Corpus total word count: 644937
+Corpus unique word count: 14880
+
+Top 10 words (able to read 39% of corpus)
+de e a que o da para por no un 
+
+Next 50 words (able to read 55% of corpus)
+á con ao unha seu categoría súa si artigo el cando y sobre terra xa señor lei 
+todo ben polo deus meu la son autor ser pobo i lle w este esta pero local pola 
+nome era sen ás for m s coa vida dun día mesmo estado páxina miña 
+
+Next 100 words (able to read 65% of corpus)
+título galego b caso tanto uso cultural rei contra tempo q protección parte 
+ficheiro lingua segundo gran ano dereito fin cal usuario ata data casa home 
+alma patrimonio outro l v tal poder facer dous dunha información pai del texto 
+mundo lo comunidade goberno vez serán presente ela deste forma r modelo set 
+cara coma medio obra fillo xeral tres be canto acordo interese u carácter só 
+constitución modo estatuto noso noite materia mal persoal lugar nun capítulo 
+xeito te palabra encabezar libro coñecemento teu ante morte saúde error social 
+ter cristo nova ver grande moito novo espírito consello aquel 
+
+Next 500 words (able to read 81% of corpus)
+tiña número xente pouco imaxe catro castro mar man control corazón xunta santo 
+oficial dar corpo fixo neste persoa público fe desenvolvemento especial ningún 
+respecto cidade sistema primeiro seguridade cousa tipo valor editor exercicio 
+réxime causa conta amor prazo igrexa versaleta comunicación meta traballo voz 
+século competente aplicación camiño territorio relación ese disposición can 
+lista mi maría color conversa ceo orde g ámbito licenza real obxecto baixo 
+guerra proposta administración anterior capacidade global san sol competencia 
+ir reino libre rima edición español saber país boa col aquela atención rexistro 
+túa exemplo fonte mor paz decreto deserto nai mil feito autonomía actividade 
+estar xustiza maior parlamento código propio forza tódolos seguinte cultura 
+educación presidente ligazón vasco función liberdade conforme alumnado 
+organización falar hora luz val auga esa neno mensaxe marcador verdade j sangue 
+utilización po doce vento momento normativa conservación certo declaración 
+motivo procedemento grao maneira exército cun cabeza tribunal disposto 
+tratamento irmán prexuízo muller proceso algún decembro porta madre superior 
+amigo historia acceso resto axuda bo lado mantemento clase vostede índice viña 
+mellor iniquidade participación lume autorización idade van vista maio dito 
+dominio civil posible cinco contorno axencia cita final xudicial dicir 
+funcionamento proxecto grupo contido formato creación correspondente triste 
+resolución natureza nacional ouro consellaría seis marco execución voso cunha 
+pro lexislación identificación partir novembro xullo destrución outubro poesía 
+apartado legal principal espazo estilo don río consellería sitio cantiga 
+cumprimento principio centro verbo sección publicación responsabilidade 
+documentación programa congreso biblioteca recoñecemento territorial fondo 
+punto xestión igual var convenio pan entrada froito pedro boca favor fala 
+chegar cabo foto comezo campo vigor tío aviso vontade concernente salvo 
+representación medo mes nivel razón necesario árabe plan usar peito vello chan 
+vir efecto conto industrial último forte pé monte familia alto valoración haber 
+comprensión ira tomar obter batalla situación paso carta expresión comisión fan 
+escribir coñecer maioría adaptación etiqueta propiedade crear natural levar 
+responsable realizar autoridade nación ponte conxunto dela gozo media medida 
+común resultado nacionalidade xurídico espada física inspección escrito diario 
+round leva defensa miniatura vía falta ordenación cooperación previsto 
+investigación norte pesar solo necesidade parámetro cantar establecer portada 
+pena particular bloque longo sociedade hasta nel mormón viño marzo realización 
+obxectivo queda morto morrer aprobación rosa transliteración febreiro ensino 
+virtude asemblea pasar mariña vila face regulamento orixinal carne miseria 
+conformidade aprendizaxe tarde festa histórico dado liña cargo finalidade diaño 
+acción lectura industria pecado literatura xuño depósito amado orixe preto 
+colaboración presenza pedra formación xunto unión oito condición futuro 
+elaboración patria busca galería intervención calidade gardar raíz castelán 
+redor pronto parágrafo xuíz copyright banda menor ler servizo fame terceiro 
+base informe auto sentido din prata coordinación interior dirección abril 
+posteridade idioma poñer descrición substantivo dereita salvación anxo xaneiro 
+sanidade modificación instrumento testemuño vivir fez árbore escrita par 
+actuación ordenar recibir tamaño establecemento paxinación luís asistencia 
+produción único cambio oral arquivo órgano director asociación gloria 
+referencia letra sorte sanitario terceira utilizar produto regulación mellora 
+aprender revista escola obriga daquel pasado xuízo test sete práctica deixar 
+individual actual consideración república editar versión avaliación 
+misericordia internacional 
+
+Next 1000 words (able to read 90% of corpus)
+castelo xusto ferro pensamento caixa padre demo módulo ministro nobre inferno 
+decisión sur iniciativa xan divino termo memoria matrimonio editorial evitar 
+época ambos normal cabeceira debido avaliar adicional dese aldea volver 
+criterio aire defecto identidade feita igualdade titularidade universal 
+ministerio cumprir sede rede resurrección arrepentimento perda eterno 
+interpretación emprego mira linguaxe realidade fronte naquel servir caer área 
+promoción branca permanente papel díxome solicitude total extremo incumprimento 
+identificar composición erro observación columna illa confianza carballo 
+esperanza contar actitude pequeno multitude coidado buscar seguir embargo 
+incluír coroa comprender resolver andar resumo importancia xeración rexión 
+comercio planificación sr mañá lar destacado marcha anexo posto constitucional 
+entender gaita xénero volume senado grave político sinal período engadir 
+tratado entrar alta posición saír pagar equivalente cheo revisión económico 
+máximo arte herdanza entidade verde material presentación posta continuación 
+mozo cerca consulta catálogo adquisición queira cantidade loita potestade 
+superficie existencia recurso zona vinda elemento setembro cordeiro manter 
+abade valorar lingüística desexo ollo próximo comer ciclo seguro cativerio ni 
+profeta servo cruz documento secretario ventura escudo cor distribución branco 
+elección fundación concello análise torre movemento inimigo contexto escritor 
+malo dita técnica garantir expediente mandato simple cabaleiro soporte estatal 
+agosto destino perder exercer participar poeta orgullo penso provincia dor vivo 
+sombra recoñecer cuxa comprobar cama consecuencia fiscal contrario décimo 
+preciso taberna serie cidadanía traballar ar sainete construción correo roupa 
+tema diñeiro empregar pazo pleno difusión visto aula humano xefe deixa copia 
+destruír vira cura música vogal traducir gusto prestación suposto misa reforma 
+noticia relixión brazo plural supremo excepción facilitar popular importante 
+crer profesional atopar ocasión terrible toma básico cuxo concilio cuberta 
+enerxía desenvolver matar cuarto chea escritura infracción pedir carnaval 
+verdadeiro estrutura leito personalidade mirar mente nove transmisión sobrado 
+unidade poboación facenda risco abundancia inclusión titular temor contrato 
+capaz interesado amo reunión benestar pensar asento municipal arqueolóxico 
+consentimento preliminar viva modificar academia exterior ánimo portal adopción 
+interface oído metade sumo enderezo deber escoitar querer bastante redención 
+contento esforzo aberto prá idea administrativo resposta privado costa temporal 
+breve cen mesa sabio técnico oficio manda inglés mínimo chorar localización 
+volta táboa alegría curso integración aberta aplicable pró terreo comité amar 
+independencia chama costume prevención tradución ribeira notificación afectado 
+beira obrigado sanción determinación lúa publicidade cámara proba comunicar 
+barco residencia correcto borrar prisión conde estudo oír garrido boletín 
+artístico regular iniciación pacto petición permitir domicilio secreto compaña 
+posesión aplicar producir protexer presa xogo dura explotación carga vertical 
+arranxo acceder posibilidade domingo raíña nota mover mando introdución sono 
+bandeira teatro labrego enlace babel cabalo parroquia indicar altar testamento 
+voto alcalde transporte mandamento asegurar traslado vide obstante familiar 
+conquista francés dignidade provisional vixente mostrar doutro ampliación 
+prólogo sabedoría transcrición opción conciencia procurar garantía sucesión 
+vilar militar expresar físico habitual rexional culpa instalación porto 
+presentar quedar longa praza suspensión chamar trono llo claro puxo 
+universidade poema graza comparación completo propósito ambiente escoita visita 
+leste caridade duración semellante interpretar sentimento conseguinte visual 
+fomento selección interno navegación crego frac negro significado topografía 
+bondade previo gando autorizado definición compañeiro intelectual electoral 
+convivencia incredulidade apoio suficiente año nese gaiteiro acto defender 
+loitar imperativo experiencia paisaxe comercial silencio bendito convención 
+singular evanxeo conservar papa leite intención progreso nacemento beta 
+doutrina riqueza delito moral relevante tratar balde renuncia aprobado redentor 
+diversidade adecuado vitoria inicial amosar pelo carón sobriño restauración 
+pracer lesta indicativo mestre cristal símbolo seo norma problema adoptar fuxir 
+recordo acento efectivo porco felicidade economía nacionalismo fogo ce dalgún 
+pose estrela preámbulo niño tesouro membro raza delegación asunto altura pano 
+financiamento humanidade devandito colección opinión específico ortografía 
+cambiar tradición xi protexido nosoutros inverno diferente crítica mostra 
+suxeito entoación alento observar barca central musical antigo oeste rico himno 
+pastor inmaterial educativo pe compañía crédito epístola mercado sector dono 
+tramitación honra botar duro figura sala pronuncia declarar inferior calor 
+manual engado ancho cuarta representante nacionalista celebración concepto 
+beneficio rectitude besta deputado xuramento recuperación león señorito 
+salvagarda garda rúa maldición alegre habilidade barra dano noutro totalidade 
+escolma resulta consoante custo golpe mo eficacia nomear vermello sabor 
+inscrición recollida bronce proceder carreira pór conselleiro cesión 
+delimitación exclusiva perfecto penal actualidade nomeamento exploración peso 
+escuro tristura gráfica etapa convocatoria quinto universitario dúbida benxamín 
+construír discriminación corporal estranxeiro encima leve cancioneiro frío 
+expiación correr perigo historial armada bieito gozar emitir testa remisión 
+funcionario institución falo predicar feira bautismo xantar azul ensinanza 
+traer monarquía autoría relato profecía viaxe lago imprenta contribución cento 
+baixa cadea mortal consumo emperador convento clasificación servidume oposición 
+promover escolar televisión currículo diálogo cariño científico guía equipo 
+discusión parecer vestido portugués procura arquitectónico seguido laboral 
+tenda marqués firme cualificación inventario obtención sinatura misericordioso 
+bibliografía roca existente directo bernardo solicitar lograr solidariedade 
+caída cometer rango prestar presidencia especie obrigatorio privativo método 
+sexo dilixencia varela fundamental beber axudar labrador facultade consultivo 
+resistencia levado ordenanza soño palla xeneral declarado conveniente renda ll 
+organismo incoación habilitación ledo fume lla angustia cote subxuntivo 
+institucional grado corda autogoberno espera gana montaña arco palacio 
+percepción capital catalogación silva manifesto orzamento dato folla obrar 
+solución tipoloxía ausencia lombo oración desfrute perecer sentir mercé prezo 
+anual imposible cadro separación ferreiro feminino sacerdote luar plano 
+escuridade xusta intercambio cancelación virtual quinta aparencia lama contado 
+ideal mel influencia honor claridade vasca cativo puro mosteiro ferramenta 
+colexio nube plenitude favorecer inmediato antiga contribuír alcance tolo 
+íntimo venda querido doutra aceptación cotián equilibrio actuar cálculo fa 
+mirada radio utilidade concesión partido acta dixital distinto berce visión 
+vixencia saída mellorar citado adquirir alteración deputación tristeza paciente 
+botón tormento elixir profundo útil coñecido risa integral lexislativo 
+derradeiro chamada validez hixiene votación salvador sangría remate executar 
+parcería quedo prensa grandeza enterro oficina preparado determinar clara 
+implantación descanso determinado fortaleza estatutario alba tic transferencia 
+formular distinción catalán europeo preposición atallo grafía feliz eliminar 
+regra rostro comentario cala evolución describir incorporación bispo instancia 
+verán adxectivo éxito neve lueiro infancia dobre asombro censo circulación 
+novela discurso formar rapaz fomentar disolución contactar levantar calma caldo 
+reflexionar chegado electrónico recoller semente parcial empresa anaco 
+amortecemento valente vencer limpar ardente autorizar antigüidade dureza 
+posterior favorable encargado chao segredo falla coita aspecto ermida 
+instrución tradicional poderoso oferta agarimo pau acentuación mundial cesar 
+enteiro federación ensinar seca xiz camba 
+
+Next 5000 words (able to read 98% of corpus)
+lecer achega lector errar penedo consolo dispoñer autónomo estivo carro 
+supresión extensión mental loito castigo cego integridade suma xardín re 
+descendente meniño casamento seleccionar vaca repouso tradutor débeda apóstolo 
+senso vela lixo ligar marido comida eficaz largo subir corre vixilancia 
+reflexión basta incidencia audiencia correspondencia xornal conseguir iniciar 
+transmitir espiritual nado eido condenación cela representar elaborar tanque ma 
+continuar sentenza mandar tocar sinalado eliminación sacar preso bico ola 
+urbano perdido contención alemán xulgar formulación pobre analizar servidor ría 
+exame rabo mérito adecuación sacrificio preservar chegada índole ledicia 
+apertura precisión marcial difícil aproveitamento colaborar encontro imperio 
+mapa transgresión esencial vivenda sabido ficha liquidación tirar gobernador 
+verbal abrir capela organizar cárcere bosque responder cerro dolor combinación 
+limpa rama gato seda campaña división anterioridade apreciación soberanía 
+compromiso parceiro prescrición mandado patente marchar paciencia 
+transformación trescentos referendo pregunta nave comarca exposición partida 
+parar tarefa afirmación detalle máscara entendemento adán colo pronome cota 
+marica serra reinado manto corte lonxitude ferido reserva ferida obedecer 
+funcional axeitado amparo rehabilitación veiga millo exclusivo recepción 
+horizontal acaso touro pesca dada capitán desempeño ritmo fundamento recordar 
+ave comportamento aurora pico profesión labor ilustre mata alimento disciplina 
+xe terminación maldade namorado onda xenio acabado purgar relativo causante 
+similar indemnización ofrenda escape nacer cortés mester instante res silvestre 
+contacto abeiro saco promesa veo bardo cuberto madeira enfermidade entrega 
+vandalismo xurisdición promisión optar salvar administrador infantil criado 
+tutela policía acadar compartir capa atacar arredor acordar almanaque eco 
+veciño premio trigo rectificación pa distribuír conduta milagre cadáver vara 
+clic fácil punta extinción prever orar core léxico crítico ratificación cociña 
+alborada miño opcional estándar misterio dispoñible xurdir importar nacido 
+pobreza posuír represión lixeiro príncipe rexencia dirixir templo ollar 
+inocente peza complexidade fiel miúdo provisión deliberación verso aparte ele 
+listaxe negar abondo vale leal terminoloxía comezar preparar conxunta 
+constancia recollido tráfico éter diferenza pretérito corrección afán oportuno 
+bendición hemeroteca sal escena teso redacción sesión interacción asumir 
+lembranza cuestión picote aflición paga identificador masculino velar distancia 
+leira compás escoller conflito foliada misión deseño acorde arcebispo pescozo 
+trato ama fonda localizar portela democrático designación respectar ordenador 
+valer desolación proveito delgado sé veciñanza cobre aceptar noroeste pote 
+mancha claustro vaso full semicondutor contraste manipulación existir padrón 
+ruído descubrir emisión atender rezar horta seguimento famoso loar denominación 
+posíbel máquina italiano galo dialecto conxunción contraer mudo marca fama 
+independente negociación debate saúdo sepultura intimidade romana imposición 
+vestir amante traza experimentación sola fila pertinente asesoramento dedo 
+propoñer pregón prudente escriba fi inmenso criatura ra alimentación horizonte 
+biblia acabar indicación coller fidelidade ortográfico coherencia mai ciencia 
+ditongo derramar frase ordenamento perdón sintaxe urbanístico soneto alén raio 
+debilidade separado soster documental concreto prosa area fortuna ambiental 
+sinxelo esfera pago revisor combate requisito explicar catedral houber museo 
+potencia predio culto rematar fixa constante ala mocidade empregado tumba 
+secretaría demanda cedente curto literario render cf reprodución abominable 
+criminal manexo quitar espanto espacial rudo poda financeiro escaleira cima 
+contrasinal lucro oportunidade teima lea amplo titor senda procedencia decidir 
+arquitectura alfabeto frade coro rexente temer mucho provincial emenda rir 
+patrimonial pagamento expreso ton descoñecido barba matemática contencioso 
+confederación rápido cruceiro etnolóxico exposto legalidade caudillo reunir 
+romaría variedade outeiro médico perna encanto choiva folgo importe nalgún 
+narración fino dormir odio caro ordenada achar ocupación observancia definir 
+constituído remedio estrada referente eta batido dispor mm denuncia foral 
+turismo cohesión coitado compatible acha compra coidar profetizar propietario 
+arrendatario emprega abismo fixación troco mentira mol patio federal verificar 
+asinar casación curiosidade oliveira considerando allo autonómico dotación 
+descansar entregar cuba baleiro outorgar lindo reparación abrazo actualización 
+contratación impedir violencia preparación efusión sexto outono torto semana 
+entroido fresco copiar moucho sufraxio orientación monteira catividade 
+solicitante revelación secreta limitación afectar enviar creador custodia rogo 
+chamamento característica cho profesorado comparar meiga indefinido dó 
+considerar incompatible conter sagrado expropiación conferencia xerar censura 
+inmoble estudio manifestación visitar desfeita ditar espello terror saudade 
+mesura escala lexible instituto metodoloxía senador granada parede fincapé 
+ofrecer aprecio antelación memorización firmeza funcionar aparecer aumento 
+localidade bóveda sétimo democracia rego canle poética tremer fero medir 
+corrente mercar cónxuxe relevancia docencia adoito mentir lingüístico recado 
+estación gobernar detido proclamación comparecer violación inicio herdeiro 
+vapor aparición lanzal falso latino ocupar colectivo ruína morar engadido 
+bibliográfico consolidación cobertura ollada clave prosperar supervisión 
+levantado copa pel cidadán nadal esperar suceder perspectiva morra fachada 
+demasiado mouro bota cesta abuso pousada montaxe inspector clima lobo pranto 
+operación sucesor prefixo constar muíño corrupción omisión torno activo 
+obrigación porvir constituír progresivo trocar enciclopedia enviado impreso 
+ensaio escudeiro lexítimo xulgado sepulcro emoción coraxe burro administrar 
+casar sílaba dourado normalización imposto condenado circunstancia bar roda 
+flor piso proporción publicar tributo achegar premer far cerviz envexa 
+variación nu ut comprobación consciente enunciado ruta impacto bloqueo estraño 
+inocencia fío difundir precepto bailar esquecer retirada departamento celestial 
+incapacidade cruel baile herdar programación álbum individuo detención xordo 
+estamento corredoira taxa faltar tenro franxa maxestade vedor prohibido adorar 
+galaxia presuposto estadounidense pendente vocal compaixón equidade selo muro 
+avanzar asignación outorgamento enfermo distinguir froita túnica cordial 
+lexítima controlar colocación variable tola probar recompensa ampliar 
+eficiencia imperial maldito repente danza café caza explicación encargo boi 
+alumno retroceder ilustración didáctica guarir recoñecido estandarte luceiro 
+brando fol votar colocar límite corrida desfacer calada usureiro culler sentada 
+machado cobrar valía doado procedente formalización ansia estética inmóbel 
+parábola descarga ataque cortar preguntar detectar exclusión calendario 
+proposto resultar herba pontífice vieiro extraordinario procesamento peche 
+culpable configuración hoste humilde almacenamento bola conclusión integrante 
+razoamento suave saia til excepcional aproximación bando permanecer considerado 
+factor inmortal impresión muda mula xuro proporcional fato bautizado recreación 
+ignorancia sino substituír supoñer caste contía cuanto respectivo ordinario 
+visible urxencia imaxinación camiñar peor tensión integrar supor eternidade 
+gobernante vagar galiña suxeición afogado compendio ceder socio emigración 
+confusión oitavo falecemento vivente levanta gris conserva recorrer cadeira 
+fiestra fidalgo modalidade citar prado edificio ruso cambia expresividade 
+efectuar paseo roubar candil académico conversación carboeiro composto pardo 
+cargar creatividade leu mariño atribución británico coido permiso escalar 
+vencedor redimir preferencia farto frescura íntegro sensibilidade manuscrito 
+contender meter tardar pavor derrogación invisible satisfacer desempeñar ganar 
+laranxa ladrón patricio semellanza vantaxe paraxe prohibición vindo regalo 
+achado perseveranza banco tomba guión cría marcar convencional abrente latín 
+orballo vital caducidade cadrado feixe estola corrixir pase recta peregrino 
+queimar substitución procesar intento cultivo inserción casal enriquecemento 
+estatística agricultura imprescindible reducir preito crenza gráfico rosario 
+contaminación arrendador cea rebelión crise exemplar pousa carnal mato stop 
+cear elo forno procesión choro apreciar cera grafema tempestade foro 
+pluralidade cartafol calado término présa preferente madrugada vinganza 
+ideoloxía vano indicado continuidade liberación propor presto comunicativo 
+berro pasada medición concorrencia elemental fraga abandonar moderno campamento 
+profesor efectividade trunfo serio entrevista dedicatoria certeza empezar 
+comandante larga resistir significativo bicar enxebre brétema asilo corta 
+combater tranquilo satisfeito limpo agrícola chaqueta amañecer legado máxima 
+souto astucia estender ribadense garante docente xigante magnitude partilla 
+inmundicia oriente afillado parente informar perseguir relixioso sustento 
+descender romano romaxe volva reinar cunca vender cabelo siña reproducir 
+compadre baixar humildade traspaso deseñar logro concepción arreo imposta 
+morada cinza consecución lenda ordenado frecuencia valorización xofre eira eito 
+xacemento pascual aceiro vocabulario fundador seguranza levante asunción enorme 
+cá remoción discernir significación falir colectividade vergonza vellez ido 
+inicuo preceptiva limiar fermosura municipio diferenciar axustar soberbia 
+agochar consciencia estudar devesa fuga coiro esixir prosperidade medieval 
+fronteira piedade animal renovación reter alleo océano xornada ronsel metal off 
+cova xudeu emancipación mudar admitir crecente variante planta sinalar infeliz 
+muralla negocio rabaño pedazo tea fonética relacionar conveniencia rigor 
+corporación gravidade vil derrota pantalla salto peixe tendencia introducir 
+numeroso mínima proporcionar marxe tecnoloxía toque abrigo fada propaganda 
+descendencia faro retiro tormenta burato dependencia dramatización signo sofrir 
+colaborador celebrar centeo carballeira fogar recto válido soldado 
+regulamentación subscrición redonda lealdade tolerancia padriño fera corpiño 
+cubrir tomo pancho armadura azar vixiar alcume pechado asistencial folga 
+aprobar pera retagarda soia traxe crianza dourada alianza cansado retracto 
+estreito sobreira famento fabricación camisa funcionalidade clasificar 
+diagnóstico piñeiro planificar crime avanzada probación masa recadación celo 
+tribo crecer candidato almirante dina nó apropiado asimilar maiúscula mercantil 
+formulario suspender omnipotente estimación tomado internacionalista trampa 
+subacuático fouce previsión recinto invite sorpresa mañanciña pozo resta queixa 
+envío tentación enterrar occidente tropa prez delegar anónimo despacho gordo 
+restaurar lóstrego ilusión romper vector todopoderoso dificultade pertenza 
+someter pub convocar asasinato vosoutros dígrafo modesto morro quente mailo 
+maino amarelo confundir franco consistente motor lembrar mortaldade pío pecador 
+lirismo envolto nobreza contrastar formal cubo península promulgación loor 
+rumbo mención raro rato salve sufixo descubrimento precioso acougo cortello 
+amargura manifestar compensación desprazamento arpa tino multa alternativa 
+transcorrer condena padecer rural transfusión acreditación ámbolos 
+inmortalidade separar agostiño ascensión cooperativo esquema núcleo fixar 
+xornalista gratuíto anchura asesor adhesión coherente inserir predicación 
+espertar velocidade providencia carto enlazar sufrir mariñeiro continuo esmola 
+preservación hábito tralo mutuo reclamación fito refuxio patrón trago creto 
+traba sentimental textual conceder deliberar usado digno cheiro arrendamento 
+pino eixe frecha palma latitude admiración contenda demostrar incompleto débil 
+duque xeográfico ocultar brasil ente fraude tornar adaptar soidade contradición 
+sistemática sistemático mantelo aumentar deterioración soberano curruncho gorxa 
+obstáculo merlo demolición tribulación fachenda universo excelencia adscrito 
+reforzo civilización debater lanza detector sombreiro bucle xesto saído 
+silveira contestar atravesar nono leña recuperar morno serial motivación trasno 
+reo dozura mobilidade mora fórmula xuntanza esixencia persecución carreiro 
+soportar murmurar teléfono liño furia instruído adverbio separador manteiga 
+laura comprar manso dimensión intervir transformar tese porqué proposición 
+ingreso repetición conexión informática deporte grego ramo amargo penitencia 
+seco gasto viúvo harmonía arma tira hipótese azucre esquerdo episodio síntese 
+pechar percibir margarida nulidade alcanzar repartición desprezo estratexia 
+fixer intre pomba durmir experto chinés vehículo designar billete expiración 
+extraer fogueira diacrítico monumento lareira colexiado sona librar paradigma 
+vidente diminución petar adulterio intensidade imposibilidade cata practicar 
+verme monstro gota roxa reconstrución baio sosego curro horario concerto liorta 
+neto ovella éuscaro fel benvida nocturno urraca revolución 
+inconstitucionalidade normativo superación porción cavilar nativo becerro 
+investimento hospital xustificar romeu vitorioso advertencia fillar doméstico 
+cadaleito vaga átono valo etnográfico audaz estimar sentar espazoso 
+indispensable aldeán celta pluma notario pureza aparello invasión previr 
+despedida aperta conversión ouvir sexual coto guiado sopro detección cadra 
+varón incapaz emprender reparar guerreiro exceso anticipación positivo erguer 
+verdor mecanismo desfrutar elevado bote arder eficiente afrontar privilexio 
+oneroso recreo febre ausente clamor clamar apoiar entendido cumprido recobrar 
+salamanca arela achegamento especificación abellón raia lírica salva precedente 
+directivo saín voar alleamento paralelo reforzar urxente circunscrición doente 
+diérese impulso compilación enredo trámite incorrer atributo xuntar sofrer 
+aproveitar artista expansión proclama meirande puntuación notable infinito 
+xeografía cravo cargado posterioridade rendemento validación acerto revisar 
+agasallo listo compoñente pandeiro chuvia xuventude estatura toxo orgánico 
+catar excelente adscrición filosofía casco brisa decretar santidade verba pela 
+cotovía certificación obxectividade definitivo gramática simplificación 
+concurso edificación esquina reixa argumento capacitación lapela axente roxo 
+farruco escollido salario solemne fuxida balance cáliz avanzado coitelo 
+espectáculo impedimento néboa destinatario salgado cocho filósofo 
+regulamentario rabia aforro fracción melancolía cd pluralismo mediodía 
+revogación kg acusación encher manexar extra extenso intelixencia regueiro 
+plantar maña ruda preceptivo borracho reclamar entusiasmo escolante minuto 
+escolarización vago figurar defensor atado hache noivo lousa conducir proa 
+distrito pousar derivado agua fluidez gallo áncora índico ventre lido rastro 
+confluencia noxo fatal navegar retirar acontecer tropezo selector operativo 
+demarcación sinceridade incremento comido causar adoración semántica primavera 
+substancia ascendente asistir prórroga dixer evasión santiña escravitude 
+periodicidade obrigar casado restrición gravado apóstrofo malicia faciana 
+emocional empeño paraíso gala feitizo forestal talento susceptible braga alínea 
+barro testemuña moción calar presunto transacción touca candidatura activar 
+bisbarra consultar substancial destra asasino trobar estómago excluír 
+galeguismo tellado sortella cultivar descentralización crase mortalidade 
+calculadora estrito femia transcendencia contracción regreso sectorial 
+descomposición exercitar escenario evidencia brillo neutral paxaro infante 
+constituínte derrotado especificar dante expedición natal escolla cinto moeda 
+beleza curar potente freire conxugación rogar reverter neglixencia horrible 
+denegación notificar fulgor taller pita fariña creativo fianza subsolo 
+integrador sobra bate maza improvisación defunto sacerdocio predicado rolda 
+neutro limitado verificación disimular repetir gándara respirar protectorado má 
+xogar señorío gas doutor preocupación fornecer labrega cós eclesiástico 
+convencer conduto edificar vindeiro intermedio praia metálico ruada infrinxir 
+madrigal ímpeto sátira reducido consenso pórtico timbre decer impulsar 
+inconsciente valado distante circular soldo costado modernización carbón 
+planeta disolver prego fundar merca fluvial favorábel fungar bordo desaparición 
+agra comunitario requirimento cacho estrañeza colla orfo compatibilidade 
+incorrecto fenómeno cobiza caimán orella innovación prior recompilación paisano 
+espido abundante prospección hucha interminable fatiga viuvez servente cortesía 
+tenor cerco autenticidade natura puño saca audiovisual concertar prender 
+visualización hiato prisioneiro requirir fantasía numeración infractor 
+interrogación nulo recente respaldo dente galileo recolla informático inmundo 
+fusión repoludo ultramar topar centrar múltiple década avisar arrincar 
+aplicábel xugo morriña retranca ameaza inspiración musa razoable rematado 
+retablo partitura orzamentario comenzo hábil icona estremecer valenciano 
+radical grito cifra fundacional penetrar folgura tributario mágoa canso 
+cooperativa canción accesibilidade byte inútil foguete parrafeo saudable 
+coincidencia tenteo tentar pillar convencido dicionario vicepresidente absoluto 
+contedor cebola delegado cuidar sindical contrito esquivo pregoeiro castaño 
+tren dominante pretensión embaixada desigualdade ninfa xúbilo escuma mareiro 
+cana crecemento aptitude guinea portelo apelido pronunciar doazón mudanza 
+montón brutal tipográfico cólera pidir custa labranza crónica meigo 
+rexeitamento coordinar larpeiro agrupación énfase loureiro contemplar radiante 
+leria benvido divisoria augusto iniciado auxilio accesible vidro esixible 
+personaxe condución emerxencia confirmar palatal reverso oculto dubidar 
+escarnio potenciar relevo vicio fartura referir casual extracción agardar 
+queima habitación secuencia obediente adversario bilateral viveiro estrondo 
+candea parvo cóengo agradecer parir chover imitación veracidade solta trote 
+trobador ermo inminente solar arranxar solaina cómputo asegurado prestixio 
+exacto ruín cacique escapar galardón salvagardar xastre terrestre lexislatura 
+preludio autocrítica colon perdoar pragmática cesamento ratificar impoñible 
+cola demora gaceta narrador remoto americano finalizar estabilidade noveno 
+serpe abella monumental protector prioridade viola comercialización moda 
+inxuria experimental experimentar princesa desembocadura aposta hebreo cursor 
+responsábel permanencia inviolable marfil filia lázaro xenebra feble regazo 
+probable renunciar conferir corvo corto manta lavandeira incomparable rapidez 
+indagar saltar vínculo entregue transparente mediterráneo vea incompatibilidade 
+friaxe abandono bravo pasivo sinalización preferible crespo singularidade 
+irlandés comadre sega usual automático salga barriga relaxación abominación 
+bater pelexar torpe flexibilidade tirano torna madurez marea sermón cuña zas 
+incapacitado viaxeiro fase doncela devoción tímpano porcentaxe flagrante 
+vergoña porteiro tecnolóxico retrouso concentración suceso deter consola 
+enfoque exceder sublime librería carraxe converter atento malvado pedimento 
+estabelecer constitutivo impor tallo arqueoloxía resultante busto toro 
+investigador biografía restrollo implicar monótono musgo célebre considerable 
+asasinar transferir provedor reitor licenciado prohibir voluntario periódico 
+presunción redactar cintura infame testador facho acudir caravel artillería 
+franqueza tipografía pergamiño indagación aceso agudo escusa lento curia 
+bálsamo avó nasa alarma prudencia aguia encarga cabido electo drama abandonado 
+cha incitar harmonización despachar novidade sementar advertir ilegal 
+abastecemento varrer endurecer acompañamento cuádruplo monetario oitava lenzo 
+externo obediencia canada barreiro erg obreiro matanza mantido pereira retrato 
+transitorio refugallo milagroso peronismo percusión señoría operador envellecer 
+sancristía beldade durar expedir catecismo martirio medrar berrar ángulo 
+maquinaria soltar ceiba ronco convido xenérico belo xeneroso frei comentar 
+dispersión noitiña estremo pasto superar queipo consolar unánime parto forzar 
+disensión irmandade confirmación agradecemento fallo suxestión idolatría 
+galeguista peseta exhibición algodón bombo calabozo motriz malpocado 
+alternancia idoneidade facilidade sometemento intencionalidade estético honrado 
+química saudar residente especialidade misterioso rebelde executable curmán 
+roque mao dimisión dialogar consonancia seiscentos adxudicación cabezallo 
+refaixo ignorante reputación reiterado lesión alivio axuste colmo baila fileira 
+gratuidade encontrar sedento décima brillante lance puga instalar ousado 
+exportación auxiliar solto especialización obstinado satisfacción estipulado 
+lineal cordura tarifa redución labrar bretón proxección tránsito vacante 
+animación dexenerado curuto aguillón maligno sustentable indignación tato rouco 
+restablecer roubo pronunciado bodega escavación valentía entrambos pecar trust 
+césar ética guisa respiración calamidade mofa teórico dinámica multiplicación 
+ético copra armado falecer discutir cerrar razoábel situar balbordo parado 
+desterro turrar círculo faltriqueira cesionario xurado corno espermatoxénese 
+resolto romance parlamentario aforrar recollemento cantor constatar vinculante 
+furor sementeira rexistrar dispoñíbel limpeza anonimato acanto agradecido 
+esquecemento gradicela ironía pegar erróneo dedicación obstinación arelo 
+suficiencia gravar dondo decimal consentir destacar solucionar remorso 
+provisorio congoxa matrimonial chocolate arranque barqueiro importación reloxo 
+ecuatorial fusco raxo corresponder tiranía plantación tecido antropolóxico 
+etimoloxía confección ilustrado arca tambor balcón bágoa achego arrogante tiro 
+imaxinar definido doenza acústica sindicato explorar ducia confiar catedrático 
+temática diamante xurisprudencia incorporar dicción transparencia chave luxo 
+románico esencia toller pescuda mallar vencido comporta firmamento adiviñar 
+paxe campanario adición competir desaparecer indirecta segmentación humor 
+faldra teoría captura talla valencia discípulo tobo casta contabilidade 
+bloquear clásico rexurdimento sensorial reposición concordia retorno engano 
+relucente casca reincidencia traxedia pasamento fortalecer descoñecemento 
+falangueiro credo inxustiza soto pseudónimo enxeñaría acreditar rexionalismo 
+catrocentos tesoureiro captar criar ribeiro brancura reestruturación opresión 
+levada cava angosto gramatical trompeta cabida porte católico deriva vendido 
+roer pica postura gracioso rolo estoupar roto pipa representativo pintura 
+socialismo eventual socialista fermoso proximidade maruxa fervor milicia brota 
+sabelo cabaliño bata debuxo examinar subliñado articulado estrago moira revolta 
+remediar sancristán terreal homenaxe fraternidade feo cristina paixón duplicado 
+foso compango orela lx mg foxo mourería rd sotelo ditadura forca unción expoñer 
+aventura transposición multiplicar tamborileiro esperanto hosanna repercusión 
+acougar prato laxe lazo apuro alentar operar investigar mera vestimenta 
+paralización remitir potencial subsistir estrema gabinete cine deficiente 
+santísimo céspede crisma pensativo lexitimidade lanzar aliñación parva adro 
+abafar bolso vate clausura reiseñor realista retirado narrativa adecuar 
+plataforma desenvolvido quixer calvario exactitude ouvido pestilencia curral 
+bica infraestrutura cometa inmigración elevar louza divorcio gañar xenreira 
+propagar monxe travesa cariñoso encomenda rubio derivada atlántico imprimir 
+lateral dianteira facultativo fervente mistral intentar comunicado certame 
+comprensible metro confuso pinga agarimoso tenrura ombreiro sábado gritar 
+vitalidade viaxar chairo chaira cómaro produtivo redistribución fracaso 
+interpelación caber azoute liga tépedo mesto estruturar agrarismo sesta mártir 
+uniforme primoxénito inciso amanuense filiación subministración prima tella 
+primo esperto executivo errante vocación primordial taxi rexer gamma admirable 
+toponimia esmeralda obrigatoriedade caribe glosario sereno implicación berciano 
+humidade suscitar escravo parada anteproxecto presenciar fonema dispoñibilidade 
+cooperar emprazamento ergueito cebada percorrer mentireiro encarnado acuático 
+resucitar acompañar marxinación furto arboredo xentil vingar halar migración 
+cuco gravata resplandor bautizar desgraza cume cetro voo insigne mariano 
+galegofalante transcribir anotación caracterización lírico herbívoro fusil 
+pintada deambulatorio gaiola asentamento pícaro ulterior indeterminado policial 
+cornixa ofensiva epígrafe contestación ulir estéril alternativo gobernación 
+couto tenente minoría oprobio contemplación celeste granxa faco práctico fado 
+lamento anhelo amplitude influír invocar instruír faiado tinteiro transición 
+trebón líquido tirado espontáneo parolar imposibilitar afogar sito barullo 
+margarita superstición capitel concienciación mariscal intelixente afirmar 
+gradación burgo sostible xenealoxía oriental sincero trazado neboeiro 
+empedernido volto fidalguía trebello flamenco descuberto cabezo xurar xerarquía 
+rebulir diversión provenzal carteira metido sostido pintar facsímile montar 
+calcular burla infinitivo complexo transcurso roleiro querela escuadrón dama 
+batería égloga xustificante parque tronco móbil grosa santuario creba mámoa 
+supervivencia puntual encantador artificio enredar filtro aia escusado 
+reconquista comparanza subida urbanismo xaxún arume faena animado dramaturgo 
+desamparo decidido edén avaricia naval provocar agrado aniversario bispado 
+colleita pescudar cómico cancela necesitado merenda alegación ínterim 
+constrición cerrado canella demostración roibo feroz simboloxía novelista 
+aceite carpinteiro monólogo traballador espuma avance mate puider moreno trema 
+cándido estrado espelido vougo deleitable complemento idealismo dorido coche 
+comunal revolto anuncio tinta enganar heraldo racional preguiza faixa pereiro 
+folk terrorismo triunfo renacemento pi pesada letreiro filoloxía inscrito 
+vasoira colexial esclarecemento arroutada perfeccionamento choca ferradura 
+veleno marítimo amontoar cobra escolleito diminuír lóxico restitución 
+circunspección pronunciación airoso avogado solitario pegada andrómena lava 
+bulebule secuestro meda confesión cesante acumulación xemer pescar estrañar 
+proclamar troula fiada abstracto recomendable autorregulación racha rula 
+occidental estoutro amador cátedra estatua retención interposición pasmo lucir 
+beneficencia mantela melodía nordeste continente restablecemento lema 
+esparexemento sacho reescritura consular apañar pertencer rescate lis 
+interactivo tenencia asturiano delincuente espiña mimosa louco prema restrinxir 
+transliterar aturuxo probatorio paréntese litoral deducir abstracción 
+homologación quenda reverencia crucifixo cabra atraer sardiña culpabilidade 
+literal xuvenil perfume farol dependente carabel pasaxe confirmado terminal 
+líder oco gosto atravesado teito correa cognitivo constitucionalidade sacro 
+pulo milenio divulgación prexudicial nona etnia nolo ovo independentista 
+notarial inconveniente enriquecer lira guedelludo feiticeiro conciso 
+desesperación chaminea lía xenerosidade cerdeira psi nadar vendaval 
+autenticación revolucionario tapa aborrecido allear salubridade incrementar 
+oxival vítima galán parentesco implícito telemática forzado moca zume dinámico 
+simplificar bolo cortado negativo cortada malla glorioso galés cesto sancionar 
+pombal espir escrava mesturar racial normalidade demandar glosa carnicería 
+arrecendo raposo tenia clarín fonético obxección puxar memorizar santiño 
+xustificación cronista castiñeiro omega siguir pasmado teor escisión 
+finalización récord manga audición safari dengue guitarra lord trimestral 
+dedución exipcio derivar callar balada privatización tipificación quórum 
+matemático raso frecuente terzo posibilitar sabedor mingua casarío mecánico 
+vaticano cemento vileza encrucillada debedor enerxético estudante hidróxeno 
+esterco nacida colorido calumnia lusco unido pedida enfado produtor alterar 
+remexer algareo brío rexeitar desactivar meigallo aniñar faca calvo presbiterio 
+calva desemprego lirio afeito monarca covardía limón fotografía gripe unto 
+saque violar frondoso comprador camposanto escurecida lupa tónico indíxena 
+valeira receptor herdade inculpación disputa parroquial invención abordar 
+traspasar poético violeta sumario tremar persuadir papo letrado reacción 
+infernal anulación fungueiro equiparable brinco indución préstamo explícito 
+sarna redondo batallón mansión ganancia demostrativo ídolo enfrontar estancia 
+subxugar determinante asombrado intenso nordés ferrería caterva iota incendio 
+agradable quinteiro diferenciación exilio abano cantada sinagoga verdura 
+arábigo insignia nariz fúnebre furado predisposición cruzar deprender treito 
+escándalo previsible cazador deitar tabernáculo agulla liberar arbitrio liberal 
+grolo chile afección marabilloso quebranto rústico romanés pega verea combinar 
+zanca meridiano rescatar forzoso recanto flexible socialización soma trama figa 
+prescrito sufrido galeón piloto astro incerteza fita meteorolóxico inspeccionar 
+medra rencor fricción laverco accidente simultaneidade ficción penetrante 
+confesor quilogramo repartir atopado menoscabo ferir sonoro parlamentar 
+remuneración agreste celoso potencialidade ofendido modal navalla bou comedia 
+incenso cazola auditoría comedor ancián sueste responso didáctico goma cazar 
+escoba reconciliación humillación semanario eixo soán derrama sarcasmo 
+decrecente desafío trevo bipartidismo impartir distraer esplendor maxinar 
+pavimento curvo cláusula sabela bala vinculeiro mamá interiorización canapé 
+precaución estalo alerta melro golfo comportar quentar estase amizade 
+intersección tragar horror axilidade perdición primario lerio burócrata facedor 
+testificar historiador mixto brillar atrapar cu cualificativo km indulxencia 
+marcado diagonal recomposición espantoso uz prevido tranquilidade eixido areoso 
+raiola contraditorio lámpada mineiro engrenaxe caricia touciño cotarelo 
+universalidade saudita contemporáneo cartel concorrer farroupeiro sucidade 
+tomada risada excesivo refuxiado ceibe molestar visualizar praga ida carril 
+indultar concelleiro aixada acometer subsecretaría melón olor depositario 
+fatalismo deserción deixado simbólico paterno arrefriar maciñeira bonito 
+repertorio escusar coloquio kappa cabaza alameda decente repolo medicina fociño 
+macho camiñante pulso bolsa fachendoso óptica tempada desperto belén soñar 
+conformar estímulo pilla vario embusteiro arrolo alongado aparente comendador 
+transversal rousinol percorrido porfía suramericano semanal construtor pacífico 
+clan parapeto varal solaz fuso fumareda envexar pausa decoro temperamento 
+coincidente mimo apagado chuca infortunio itinerario henry dilixente agrario 
+xaponés celme bandullo sensibilización desacato aspiración acibeche 
+metodolóxico fervenza pinta flexión organizado agro automóbil recitado 
+intervalo fender amoroso desfeito refrán merecer bucodental oposto saloucar 
+terminar borra suroeste lúgubre vasto hipócrita apartación postremeiro 
+disciplinario ramaxe apéndice patriarca impoñer inédito oso instrumental 
+coprodución respectuoso confraría tiver teixo socioeconómico negociar 
+estrutural lima inerte deitada recuncho maxistrado valedor carballal púlpito 
+interrogativo admisión libraría ideolóxico proseguir vitalicio caletre impuro 
+funga arrieiro remordemento fundo novena servizal crueldade comiso exótico 
+foncho chapeu padroado nominal evidente lección interpoñer arado insubstituíble 
+consolidar xerente internamento magnetismo nomeada tapada mamar presidencial 
+desobediencia típico postal rol pisco moer reconstruír adquirente derrubar 
+bocado ardor arquipélago queimado codificación salgueiro rifar pescado pensión 
+globo prover silencioso amencer gandaría tento clero pavía lamentar doiro 
+cavidade adarve comparado guiar aclaración rendido desexar fútbol terapéutica 
+tecedeira botín sapo pupilo xiíta etimolóxico sorrir unificación equilibrado 
+gravación terrón prefacio ornamentación brincar cantería anunciar espiral 
+ilimitado tonel cántico corro heráldica ditado aplique banca inviolabilidade 
+exixencia impugnar céltico compoñer ditame entrado sustentábel cacheira 
+suprimir cilicio acordeón configurar construtivo razoar compensar exención 
+simulación notorio voitre especificidade desamparado secundario aclarar 
+representatividade arcebispado rebaixa espeso arrefriado disputar amistade 
+sacerdotal tallada rumor paradeiro incidir prioritario morfema recadar 
+asimilación irreparable accésit desigual recíproco madeixa fuste 
+racionalización xestionar tizón equivalencia esterno piñeiral falimento 
+sacrificar torta xulio pequecho nacenza descoñecer aplauso cúpula apoderado 
+meixela aplicado sucedido zapato abertura procurador indicador salvaxe 
+extinguir especulación prelado lingüista asno teoloxía concreción laurear 
+trasladar bárbaro mantenza incrible condesa ingrato negación lebre táctica 
+antediluviano titulación palleiro xeometría finado principiar unir completar 
+damasco déficit taboleiro gustar lavado cabeleira pantalón electrónica peteiro 
+diplomático rexo rezo sigma salón mármore decena condescendencia braña limitar 
+subtítulo excelentísimo banquete afectivo gornición impresor concertación 
+excéntrico adega maduro pompa atracción tampa remuíño dádiva paro brioso 
+cegueira reverendo xornalismo brinca loucura descargar estático lanzada mollar 
+suspirar chisco improcedencia avaría insurrección glándula décatlon oliva 
+romanticismo soprar inmigrante reparo tapar achadizo imparcial contribuínte 
+paramento estima entremés complementario autodeterminación ventá rechamante 
+visíbel partícipe ceibar procesual constrinxir discapacidade cualificador miolo 
+cilíndrico noruegués espesura superioridade decaer arqueólogo interpor minerva 
+conversar prodixio peonil venia consecuente gandería convicción afastado 
+fraqueza lamentación alteza alegrar galaico tenreiro gabacho china interrupción 
+pestana abdicar veraz vulgar gravador pregaria moble numérico luxuria ringleira 
+peto enramada mencionar arrogancia desvantaxe capuchino embarcación probado 
+enchente sopa fenda filosófico afecto comisario bergantín substituto alicerce 
+invariable paralizar regresar cullerón garabata mestura prescindir coordinado 
+vendima maruxiña bebida idéntico bengalí llama cobranza ara presidio 
+reciprocidade yang vestiario saudoso ambición azo ilícito subscribir inversión 
+cóbrega axustado partición trimestre pracenteiro apartar decadencia fértil 
+desinhibición trenco concluír undécimo agarrado fragmento verter zeta dragón 
+confesar sindicalismo rival marrón lexema amable remar consorte mirón queixoso 
+gomo duplicar degaro vulneración rota adoitar inmutable significar pólvora 
+compasivo macizo tortura salvamento tallar obvio esculcar lavadoiro criticar 
+nutrir capitalismo orgulloso pertencente capelanía interrexional baba erudito 
+fisionomía solidario sandía bafo cautelar contable confiscación embozo maná 
+caciquismo póla encomio quilométrico morena paleontolóxico consiguir castidade 
+perigoso alcoba temeroso mazá ceba sazón turba eme sinfonía tesourería 
+escribanía cobizoso disimulo mercede rigoroso restituír invitación cegar foco 
+temporada xestor fregar fondura cebón vicario estranxeiría fole gabia 
+churrusqueiro despregar protagonista promulgar barato inquedo lexislador 
+supletorio pesebre infamia laído vibrar hostia aéreo curioso doloroso rexurdir 
+manobrar convir napoleón bruar tremendo gra inextinguible frauta punteiro 
+guerrilla latricar monacal inmensidade dispensa serenata consignación bubela 
+arrinca naturalidade dispositivo actualizar foula pasaporte agonía sondaxe 
+devolver meca accesíbel sacudir axuizar escocia fuxitivo caviloso delimitar 
+millón poetisa aboamento mirado menú lacón inequívoco ensinado comuñón 
+autocontrol tecer desleal habilitar zanfona sospeita coacción pota canela poxa 
+cortina sacramento queixo amorodeira varudo intuitivo selva destronar 
+bilingüismo compor malicioso traizón atentado arredar travesía metalinguaxe 
+pectoral milleiro bizantino diferir manequín afianzar compostelán soberbio 
+algazara cabana fugaz intérprete elaborado óptimo esquematización criador 
+filtrar xenro morgado extracto opresor clérigo artesanía disco sacha nutrición 
+brutalidade cirílico quite arbitrariedade sucesivo estremecemento gorra 
+escarmento emperatriz avergoñar escultura letón exento dobrar gastar renome 
+chicha estimular gratitude turbante pesqueira retribución pataca chío prebe 
+lúdico club monxa xiro nuclear prega arancelario despertar semicircular prelo 
+libra casino tardiña atrancar olfacto saami elocuencia alimentario harmonizar 
+bicada cuartel abono invadir miñato bolboreta tesouraría egoísmo enclítico 
+prevalecer reinserción indigno inmemorial gnoseoloxía húmido peneira esmero 
+morea xanela bañar patriotismo fortalecemento farta diminutivo estorbo 
+escorrentar inverter sepultar recomendación cualificado unixénito practicable 
+atraso resío sonar furtar apostura actor doído esposo oca perfia 
+vulnerabilidade perfil civilizado prolongar quito serbio osa azouta cabal 
+marabilla parecido sensible activación lampo noto quella estante coxo profesar 
+liso andado perico proveitoso imposíbel campión liñaxe afectación mediar 
+conciliación cruzado pascua cruzada descobrir piscina reservado veludo frouma 
+satisfactorio cromatismo desprotección doutoramento consistir insular valioso 
+destitución orientador altivez contraportada refugar descalzo avión dogma 
+simultáneo cómic motricidade empresarial quenlla abreviatura quebrantar 
+solvencia zoncho durmida rem rho ril baldeiro tender crucifixión alce desviar 
+horto remador neixarigo xoga grade graal xoia espallar interxección escribán 
+suplicar embarcar xota boto xurisdicional gadaña bozo viso confín fiable 
+gardarroupa inxección exacción alza parentela balea comparsa condenar congregar 
+delta axuntamento suspiro intrépido carabela enxeñoso violento bouza 
+articulación bufete tau pasear botafumeiro penado maraña subordinación xavelina 
+loitador esperpento garbo expresivo resolio comodidade puxer fieito felicitar 
+quietude basílica máxica trazar vedro fecho cántiga paralelismo varado cairo 
+conceptual fallar curial corra reescribir grato parvada predecesor altor areal 
+transportar lodo mango apócema tacto alude experimento antesala obradoiro 
+magosto sobrante duquesa invitar lote ignoto vilán desconsolo almacenar pista 
+narrar vertente estratigrafía casteleiro inquebrantable duplicación clemente 
+paquete rabiar descubridor financiar repercutir xubilación nudez apto 
+longanimidade decorrer suicida reinante avoengo espía rosetón gama pontifical 
+ecolóxico peite barrio limbo fonoloxía heroína mobilización elegancia manchea 
+atrevido revogable autóctono coincidir arroubo recadro terna abranguer 
+ansiedade sela lavar seno atrevemento basto infindo problemática queixar 
+facción monopolio arrecender acrecentamento enerxética ritual reconto montesío 
+volo parcela refrega xura silandeiro paiolo dilema reelección vangarda 
+aprehender arró buxo tordo subrogación parida timo infusión desesperado alzar 
+vándalo póstumo nacente ignorar firma institucionalización saínte alcaide 
+ananás vantaxoso intacto cédula predicir fornicación acepción exhaustivo 
+imparcialidade faio socorro bulsa recrutar atar fano reversión ater sorteo 
+gametoxénese concha estío lambón delicado optimización dogmática sostemento 
+mercería inspirado adorno encerrar figueira diocese prognóstico frota estadea 
+relatar repousar proporcionalidade fotosíntese xunco disfrace destro patrocinio 
+invalidez curricular solemnidade provocación couselo manipular chata colchón 
+empezo esquematizar orientado asociar anticristo siso impedido placa cobizar 
+exaltado tabaco traxectoria lixeireza informal xeado francesada moderador 
+contrición insuficiencia subliñar esforzado venturoso coeficiente vestidura 
+bielorruso desexable troupeleo cónsul paio agoniante laboratorio lexión 
+inquieto banana verdugo neerlandés pistola sotavento atuar áspero audacia zorro 
+frieira touza escocés xilin veloz impar comitiva patrio impureza pendón 
+homónimo soldada silueta detrimento aguillada terríbel talar indirecto dotar 
+lucrar variar sobresemento electricidade receo apuntar zócolo exclamativo recio 
+apostasía torcer simetría flotador morfoloxía capote garaxe amañar perverso 
+residir parola cómplice báculo verbalización potenciación interlingua 
+propagación sorriso designio persa avisado rito incógnito congostra 
+reintegración rocha alfombra fortificar nasal formalizar atallar presbítero 
+corruptíbel modestia mensual inexistencia arbitraxe furada rebuldar tipógrafo 
+conspiración rascar promotor confiado repoñer aroma lambda sinxeleza 
+reelaboración morcego cuadrúpede agresión loitosa vizoso previsíbel perturbar 
+confeso candeloria ruxir theta permutar atleta batallar epifanía traxecto 
+pregar cascuda feitura pastoral soltura porno esgotar mineral pego innecesario 
+profundidade comercializar evocar legón maternidade aguantar móbel imperfección 
+amortización asalto liscar hábitat xentío grandioso carencia elocuente 
+gramaticalidade benevolencia tramo fiar trapa búmerang verrón figo tigre 
+fonolóxico discernimento universalismo rebeldía rectificar marisqueo sosa 
+imperialismo esmoleiro acuicultura chiar calzado proporcionado cotarro perpetuo 
+conquistar abrandar artificial escolta clemencia fento brevidade cómodo albor 
+sutil unanimidade turbar cansazo mediación vacún taboado monstruosidade proeza 
+tuareg calo presidir aro portaría formigón filólogo presión infundir mitin 
+repugnante lícito corrompido revelar divulgativo feudal artesa cazo desbloquear 
+artífice chofer júnior mestría migalla rumboso afluente colgante avinza rudeza 
+cereixa educador hámster xesuíta miserable alimentar estadística textura recaer 
+fábrica secar pelica resumir impugnación consumidor alalá penoso barbarie 
+progresividade piar característico invicto trastornar topete prouguer 
+hidráulica horrendo fiscalizador iónico incrustación chá capitalidade triunfar 
+enriquecedor segar pampa ladra cru sketch pito concéntrico alcaldía aparcamento 
+calzón feixón litixio investidura carolo bandido diluvio atranco corintio 
+enxeñería uniformar inhóspito fuxido garavanzo sirena desorde divulgar unificar 
+randeeira quebra riseiro sobro centralización destacable enxertar 
+circunnavegación candeón palmo enumeración provisto doa reler tribuna enganoso 
+descrito ingratitude alfabetización mama galanura vélaro místico devoto diadema 
+incentivo abxuración galeguizar xato discreto escota devecer destreza afouto 
+peregrinación convindo enxeño capitalista afluencia inscribir ego retroactivo 
+rolar folletín crecho titulado severo glorificar aventurado turco estratéxico 
+ventureiro xelea gardián mísero barreira abeberar chopo cocer necesitar poxar 
+látego puñal cabezada nexo cisne apoxeo acabamento liberado aparecido mansedume 
+vagón téxtil tornada discreción entreliña indivisible vergonzoso folclórico 
+atmosfera deán arrebatar crucial suor toleirón redistribuír chícharo taxación 
+florentino amparar inconstitucional corredor visibilidade fon véspera fu foz 
+salgueiral llelo gabar peronista dramatismo coartada foxa encoro 
