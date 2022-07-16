@@ -75,3 +75,5 @@ https://github.com/acidsound/korean_wordlist/blob/master/wordslist.txt
 https://github.com/urduhack/urdu-words/blob/master/words.txt
 
 This package uses the [JMdict/EDICT](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) and [KANJIDIC](http://www.edrdg.org/wiki/index.php/KANJIDIC_Project) dictionary files. These files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's [licence](http://www.edrdg.org/edrdg/licence.html).
+
+Corpuses are from https://dumps.wikimedia.org/
